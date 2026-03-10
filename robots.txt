@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://changelog.fillvisa.com/sitemap.xml

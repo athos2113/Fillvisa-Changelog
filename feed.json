@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fillvisa Changelog",
+    "description": "",
+    "home_page_url": "https://changelog.fillvisa.com",
+    "feed_url": "https://changelog.fillvisa.com/feed.json",
+    "user_comment": "",
+    "icon": "https://changelog.fillvisa.com/media/website/tick-square-svgrepo-com-2.png",
+    "author": {
+        "name": "Junaid Khan"
+    },
+    "items": [
+        {
+            "id": "https://changelog.fillvisa.com/cross-project-synthesis-on-canvas/",
+            "url": "https://changelog.fillvisa.com/cross-project-synthesis-on-canvas/",
+            "title": "Cross-project synthesis on canvas",
+            "summary": "Quick search improvements Quick Search helps you quickly find the right objects across your workspace so you can answer questions faster, make decisions with confidence, and avoid digging through irrelevant content. Here are some recent improvements: Group by recency Results are now grouped by what&hellip;",
+            "content_html": "<h1 class=\"css-hq1cm7 e1s557dm4\">Quick search improvements</h1>\n<section class=\"rich-text undefined css-lt27wo e1uao2c73\">\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\">Quick Search helps you quickly find the right objects across your workspace so you can answer questions faster, make decisions with confidence, and avoid digging through irrelevant content.</p>\n</div>\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\">Here are some recent improvements:</p>\n</div>\n<div class=\"css-yzg3cv el5v9ed5\">\n<ul class=\"css-112nga6 e28h43i11\">\n<li class=\"css-1hnqhfd e28h43i9\">\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\"><strong>Group by recency</strong></p>\n</div>\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\">Results are now grouped by what you’ve interacted with recently, so what you were just looking at floats to the top.</p>\n</div>\n</li>\n<li class=\"css-1hnqhfd e28h43i9\">\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\"><strong>Result counts upfront</strong></p>\n</div>\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\">We show how many matches were found across your workspace from your search, so you can instantly judge the scope of a topic.</p>\n</div>\n</li>\n<li class=\"css-1hnqhfd e28h43i9\">\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\"><strong>Magic summary</strong></p>\n</div>\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\">Searches now include a short AI summary of the relevant content, giving you an overview grounded in evidence before you dig deeper into data and docs.</p>\n</div>\n</li>\n<li class=\"css-1hnqhfd e28h43i9\">\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\"><strong>Questions nudge you to Chat</strong></p>\n</div>\n<div class=\"css-yzg3cv el5v9ed5\">\n<p class=\"css-32d4gc e28h43i12\">If you type something that looks like a question, Dovetail now highlights the <strong>Ask in Chat</strong> option so you can have a natural language conversation that's grounded in your data, instead of filtering through static results.</p>\n</div>\n</li>\n</ul>\n</div>\n</section>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-10T15:26:48+05:30",
+            "date_modified": "2026-03-10T15:26:48+05:30"
+        }
+    ]
+}

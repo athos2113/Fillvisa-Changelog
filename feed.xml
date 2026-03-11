@@ -3,12 +3,60 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-03-11T04:45:44+05:30</updated>
+    <updated>2026-03-11T15:59:11+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fixed: I-90 Form (Section 4 Disability Question)</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/"/>
+        <id>https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/</id>
+
+        <updated>2026-03-11T15:21:46+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    We fixed an issue in the Green Card Replacement (Form I-90) where the disability question in Section 4 could still prompt users for additional information even when “No” was selected for having a disability. This behavior caused confusion because the follow-up field should only appear&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We fixed an issue in the <strong data-start="80" data-end="118"><a href="https://fillvisa.com/form/i-90">Green Card Replacement (Form I-90)</a></strong> where the disability question in <strong data-start="152" data-end="165">Section 4</strong> could still prompt users for additional information even when <strong data-start="228" data-end="236">“No”</strong> was selected for having a disability. This behavior caused confusion because the follow-up field should only appear when the user selects <strong data-start="375" data-end="385">“Yes.”</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/5/fixed.PNG" alt="" width="1771" height="137" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/5/responsive/fixed-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-2xl.PNG 1920w"></figure>
+<p>The issue was reported by a user on <strong data-start="423" data-end="434">March 8</strong>, and the form logic has now been corrected so that the follow-up question only appears when appropriate. Thank you to the users who report issues—these reports help us improve the reliability of Fillvisa forms.</p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="/media/files/fixed%20I90.mp4" type="video/mp4" /></video></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Upgrade page</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/upgrade-page/"/>
+        <id>https://changelog.fillvisa.com/upgrade-page/</id>
+
+        <updated>2026-03-11T15:10:19+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    I added a dedicated Upgrade Page in Fillvisa Plus to handle cases where a user’s trial period has ended. When a trial expires, certain application actions are restricted and the user is automatically redirected to the upgrade page, where they can review subscription options and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I added a dedicated <strong data-start="63" data-end="79">Upgrade Page</strong> in Fillvisa Plus to handle cases where a user’s trial period has ended. When a trial expires, certain application actions are restricted and the user is automatically redirected to the upgrade page, where they can review subscription options and continue using the platform.</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/4/upgrade.PNG" alt="" width="1080" height="718" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-2xl.PNG 1920w"></figure>
+<p> </p>
+<p>This update helps ensure a smoother transition from trial to paid usage while clearly communicating the account status. Instead of encountering unexpected restrictions, users are guided to a single page that explains the limitation and provides a straightforward way to upgrade their plan.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dynamic Dashboard</title>
         <author>

@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/update-forms-autosave-and-load-reliability/",
+            "url": "https://changelog.fillvisa.com/update-forms-autosave-and-load-reliability/",
+            "title": "Update: Forms Autosave &amp; Load Reliability",
+            "summary": "This update resolves a critical bug where form validation status was not being persisted to the database after submission. The root cause was an early-exit guard in saveFormToServer() that skipped the save when field values hadn't changed — meaning the formValid flag set during submission&hellip;",
+            "content_html": "<p>This update resolves a critical bug where form validation status was not being persisted to the database after submission. The root cause was an early-exit guard in <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">saveFormToServer()</code> that skipped the save when field values hadn't changed — meaning the <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">formValid</code> flag set during submission was never actually written to the server.</p>\n<p> </p>\n<p>A <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">force</code> parameter was added to bypass this guard on explicit submission, ensuring the valid flag is always persisted. Additionally, the <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">formStatus</code> server global was corrected from incorrectly echoing the <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">form_id</code> string to properly injecting the actual status flags object from PHP, which fixes sidebar checkmarks being blank on page load.</p>\n<p> </p>\n<p>The page load experience was also significantly improved by eliminating the AJAX round-trip previously used to hydrate form fields on load. Form data and status flags are now inlined directly into the page by PHP at render time, meaning fields and sidebar status restore instantly without waiting for a network request to complete. </p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-13T00:28:51+05:30",
+            "date_modified": "2026-03-13T00:28:51+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/",
             "url": "https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/",
             "title": "Fixed: I-90 Form (Section 4 Disability Question)",

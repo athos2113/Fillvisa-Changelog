@@ -3,19 +3,20 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-03-13T00:28:51+05:30</updated>
+    <updated>2026-03-18T04:18:04+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
     <entry>
-        <title>Update: Forms Autosave &amp; Load Reliability</title>
+        <title>Forms Autosave &amp; Load Reliability</title>
         <author>
             <name>Junaid Khan</name>
         </author>
         <link href="https://changelog.fillvisa.com/update-forms-autosave-and-load-reliability/"/>
         <id>https://changelog.fillvisa.com/update-forms-autosave-and-load-reliability/</id>
+            <category term="Update"/>
 
         <updated>2026-03-13T00:28:51+05:30</updated>
             <summary type="html">
@@ -40,6 +41,7 @@
         </author>
         <link href="https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/"/>
         <id>https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/</id>
+            <category term="Fixed"/>
 
         <updated>2026-03-11T15:21:46+05:30</updated>
             <summary type="html">
@@ -64,6 +66,7 @@
         </author>
         <link href="https://changelog.fillvisa.com/upgrade-page/"/>
         <id>https://changelog.fillvisa.com/upgrade-page/</id>
+            <category term="Added"/>
 
         <updated>2026-03-11T15:10:19+05:30</updated>
             <summary type="html">
@@ -88,6 +91,7 @@
         </author>
         <link href="https://changelog.fillvisa.com/dynamic-dashboard/"/>
         <id>https://changelog.fillvisa.com/dynamic-dashboard/</id>
+            <category term="Added"/>
 
         <updated>2026-03-11T04:45:44+05:30</updated>
             <summary type="html">
@@ -115,6 +119,7 @@
         </author>
         <link href="https://changelog.fillvisa.com/created-changelog/"/>
         <id>https://changelog.fillvisa.com/created-changelog/</id>
+            <category term="Added"/>
 
         <updated>2026-03-11T04:35:26+05:30</updated>
             <summary type="html">

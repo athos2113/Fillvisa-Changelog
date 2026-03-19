@@ -3,12 +3,60 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-03-18T04:18:04+05:30</updated>
+    <updated>2026-03-20T02:21:01+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>🎉 I-485 Form is live</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/i-485-form-is-live/"/>
+        <id>https://changelog.fillvisa.com/i-485-form-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-03-20T02:06:13+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    We’ve officially Form I-485 (Application to Register Permanent Residence or Adjust Status) on Fillvisa. You can now complete the full I-485 form using our smart, step-by-step interface - designed to simplify one of the most complex USCIS forms. Each section is broken down clearly, with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="isSelectedEnd">We’ve officially <a href="https://fillvisa.com/form/i-485/"><strong>Form I-485 (Application to Register Permanent Residence or Adjust Status)</strong> on Fillvisa</a>.</p>
+<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/8/i485_demo.PNG" alt="" width="1907" height="1004" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-2xl.PNG 1920w"></figure>
+<p class="isSelectedEnd">You can now complete the full I-485 form using our smart, step-by-step interface - designed to simplify one of the most complex USCIS forms. Each section is broken down clearly, with structured inputs, validations, and guidance to help you avoid common mistakes that lead to delays or rejections.</p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="/media/files/i485_demo.mp4" type="video/mp4" /></video></figure>
+<p class="isSelectedEnd">The form supports multi-page progress, autosave, and seamless export into the official USCIS PDF format. Whether you’re filing on your own or preparing documents for review, you now have a faster and more reliable way to complete your I-485.</p>
+<div><hr></div>
+<h3>✨ What’s included</h3>
+<ul data-spread="false">
+<li>
+<p class="isSelectedEnd">Full I-485 form (all parts supported)</p>
+</li>
+<li>
+<p>Smart inputs with validation</p>
+</li>
+<li>
+<p class="isSelectedEnd">Autosave across sections</p>
+</li>
+<li>
+<p class="isSelectedEnd">Clean export to official USCIS PDF</p>
+</li>
+<li>
+<p class="isSelectedEnd">Mobile-friendly experience</p>
+</li>
+</ul>
+<div><hr></div>
+<p>Start your I-485 today → <a href="https://fillvisa.com/form/i-485/">Form I-485 – Adjustment of Status Package Online | Fillvisa</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Forms Autosave &amp; Load Reliability</title>
         <author>

@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/registration-welcome-email/",
+            "url": "https://changelog.fillvisa.com/registration-welcome-email/",
+            "title": "Registration Welcome Email",
+            "summary": "Fillvisa Plus now sends transactional emails. When you create a new account, you'll receive a welcome email confirming your registration and the start of your 10-day trial. This is the foundation for upcoming email notifications - including trial expiry reminders and account updates - so&hellip;",
+            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Fillvisa Plus now sends transactional emails.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">When you create a new account, you'll receive a welcome email confirming your registration and the start of your 10-day trial.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/9/noname.png\" alt=\"\" width=\"932\" height=\"469\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/9/responsive/noname-xs.png 640w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-sm.png 768w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-md.png 1024w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-lg.png 1366w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-xl.png 1600w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-2xl.png 1920w\"></figure>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">This is the foundation for upcoming email notifications - including trial expiry reminders and account updates - so you're always in the loop on your account status.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-03-26T00:44:40+05:30",
+            "date_modified": "2026-03-26T00:48:06+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/i-485-form-is-live/",
             "url": "https://changelog.fillvisa.com/i-485-form-is-live/",
             "title": "🎉 I-485 Form is live",

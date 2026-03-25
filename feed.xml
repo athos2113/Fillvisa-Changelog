@@ -3,12 +3,36 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-03-20T02:21:01+05:30</updated>
+    <updated>2026-03-26T00:48:06+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Registration Welcome Email</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/registration-welcome-email/"/>
+        <id>https://changelog.fillvisa.com/registration-welcome-email/</id>
+            <category term="Added"/>
+
+        <updated>2026-03-26T00:44:40+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Fillvisa Plus now sends transactional emails. When you create a new account, you'll receive a welcome email confirming your registration and the start of your 10-day trial. This is the foundation for upcoming email notifications - including trial expiry reminders and account updates - so&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Fillvisa Plus now sends transactional emails.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">When you create a new account, you'll receive a welcome email confirming your registration and the start of your 10-day trial.</p>
+<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/9/noname.png" alt="" width="932" height="469" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/9/responsive/noname-xs.png 640w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-sm.png 768w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-md.png 1024w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-lg.png 1366w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-xl.png 1600w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-2xl.png 1920w"></figure>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">This is the foundation for upcoming email notifications - including trial expiry reminders and account updates - so you're always in the loop on your account status.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>🎉 I-485 Form is live</title>
         <author>

@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/n-400-form-bug-fixes/",
+            "url": "https://changelog.fillvisa.com/n-400-form-bug-fixes/",
+            "title": "N-400 Form: Bug fixes",
+            "summary": "Fixed 2 issues on form N-400 Users with no children under 18 can now enter 0 and submit the form without filling in any child fields. Previously, all child row 1 fields were unconditionally required, blocking valid submissions. File: children-info-map.js — added hasChildren() guard on&hellip;",
+            "content_html": "<p>Fixed 2 issues on <a href=\"https://fillvisa.com/form/n-400\">form N-400</a></p>\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\">First fix: Part 6 - Children's info: allow zero children</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Users with no children under 18 can now enter <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">0</code> and submit the form without filling in any child fields. Previously, all child row 1 fields were unconditionally required, blocking valid submissions.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"/media/files/fix-n400-children.mp4\" type=\"video/mp4\" /></video></figure>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>File:</strong> <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">children-info-map.js</code> — added <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">hasChildren()</code> guard on all child row fields.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\">Second fix: Part 8 - Time outside the U.S.: allow no travel history</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Users who have never traveled outside the United States can now leave all trip fields empty and submit the form. Previously, row 1 travel fields were unconditionally required, blocking valid submissions from applicants with no trips to report.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"/media/files/fix-n400-outsideusa.mp4\" type=\"video/mp4\" /></video></figure>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>File:</strong> <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">outside-usa-map.js</code> — added <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">hasTraveled()</code> guard on all travel row fields.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-03-26T12:11:51+05:30",
+            "date_modified": "2026-03-26T12:15:31+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/registration-welcome-email/",
             "url": "https://changelog.fillvisa.com/registration-welcome-email/",
             "title": "Registration Welcome Email",

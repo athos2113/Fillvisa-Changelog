@@ -3,12 +3,43 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-03-31T12:00:39+05:30</updated>
+    <updated>2026-04-04T15:30:33+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>🛠️ Improved Error Feedback on PDF Download</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/"/>
+        <id>https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/</id>
+            <category term="Update"/>
+
+        <updated>2026-04-04T15:30:23+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Previously, if something went wrong while generating your PDF, the page would silently do nothing - no message, no indication of what happened. We've fixed that. The download page now detects errors in real time and surfaces them directly on screen, so you always know&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Previously, if something went wrong while generating your PDF, the page would silently do nothing - no message, no indication of what happened.</p>
+<p>We've fixed that.<br><br>The download page now detects errors in real time and surfaces them directly on screen, so you always know what's going on.</p>
+<h3>What's new</h3>
+<ul>
+<li>Error toast - if PDF generation fails, a message appears immediately with details about what went wrong</li>
+<li>Success toast - a brief confirmation when your PDF is ready and downloading</li>
+<li>Button state - the Generate PDF button now shows a loading spinner while working, and resets cleanly after success or failure</li>
+</ul>
+<h3>Why it matters</h3>
+<p>Silent failures are frustrating. You shouldn't have to wonder if something broke - and we shouldn't have to guess either. This change makes issues visible the moment they happen, for both you and us.</p>
+<p>If you ever see an error message, the details shown are exactly what our support team needs. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Interactive Demo Case for Plus Users</title>
         <author>

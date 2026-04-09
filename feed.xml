@@ -3,12 +3,35 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-04-04T15:30:33+05:30</updated>
+    <updated>2026-04-09T14:04:29+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Automated trial reminders &amp; expiry for Plus users</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/"/>
+        <id>https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/</id>
+            <category term="Added"/>
+
+        <updated>2026-04-09T14:01:59+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Your trial now comes with a heads-up 👋 We've added automated reminders so you never get caught off guard by your trial ending. Trial users now receive automated email reminders as their trial approaches expiry - one at 2 days out, one at 1 day&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Your trial now comes with a heads-up 👋</p>
+<p>We've added automated reminders so you never get caught off guard by your trial ending.</p>
+<p>Trial users now receive automated email reminders as their trial approaches expiry - one at 2 days out, one at 1 day out. On the expiry date, accounts are automatically transitioned and a final email is sent with a prompt to upgrade and recover their data.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>🛠️ Improved Error Feedback on PDF Download</title>
         <author>
@@ -279,32 +302,6 @@
 <figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/3/dd3-2.PNG" alt="" width="1311" height="584" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-2xl.PNG 1920w"></figure>
 <p> </p>
 <p>The dashboard updates automatically as cases and forms change, helping users quickly see what requires attention. This release focuses on improving day-to-day workflow by making important information easier to access immediately after login, reducing the need to search through multiple pages to find active work.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Created Changelog</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/created-changelog/"/>
-        <id>https://changelog.fillvisa.com/created-changelog/</id>
-            <category term="Added"/>
-
-        <updated>2026-03-11T04:35:26+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    I created official Fillvisa Changelog, a public record of updates, fixes, and improvements across both Fillvisa Free and Fillvisa Plus. This website documents new features, behavior changes, bug fixes, and any features that are deprecated or removed. The goal is to maintain transparency with users&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I created official <strong data-start="39" data-end="61"><a href="https://changelog.fillvisa.com/">Fillvisa Changelog</a></strong>, a public record of updates, fixes, and improvements across both <strong data-start="127" data-end="144"><a href="https://fillvisa.com/">Fillvisa Free</a></strong> and <strong data-start="149" data-end="166"><a href="https://plus.fillvisa.com/">Fillvisa Plus</a></strong>.</p>
-<p>This website documents new features, behavior changes, bug fixes, and any features that are deprecated or removed. The goal is to maintain transparency with users while keeping a clear history of how the product evolves over time.</p>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/2//changelog.PNG" alt="" width="1808" height="475" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/2//responsive/changelog-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-2xl.PNG 1920w"></figure>
-<p> </p>
-<p>The changelog also closes the loop on user feedback. When users report bugs or issues in Fillvisa forms, confirmed fixes will be noted here so everyone can see what has been addressed. This helps us stay accountable and ensures that improvements are visible to the community using Fillvisa.</p>
             ]]>
         </content>
     </entry>

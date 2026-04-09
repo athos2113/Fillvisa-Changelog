@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
+            "url": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
+            "title": "Automated trial reminders &amp; expiry for Plus users",
+            "summary": "Your trial now comes with a heads-up 👋 We've added automated reminders so you never get caught off guard by your trial ending. Trial users now receive automated email reminders as their trial approaches expiry - one at 2 days out, one at 1 day&hellip;",
+            "content_html": "<p>Your trial now comes with a heads-up 👋</p>\n<p>We've added automated reminders so you never get caught off guard by your trial ending.</p>\n<p>Trial users now receive automated email reminders as their trial approaches expiry - one at 2 days out, one at 1 day out. On the expiry date, accounts are automatically transitioned and a final email is sent with a prompt to upgrade and recover their data.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-04-09T14:01:59+05:30",
+            "date_modified": "2026-04-09T14:04:29+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/",
             "url": "https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/",
             "title": "🛠️ Improved Error Feedback on PDF Download",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-03-11T04:45:44+05:30",
             "date_modified": "2026-03-18T04:18:04+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/created-changelog/",
-            "url": "https://changelog.fillvisa.com/created-changelog/",
-            "title": "Created Changelog",
-            "summary": "I created official Fillvisa Changelog, a public record of updates, fixes, and improvements across both Fillvisa Free and Fillvisa Plus. This website documents new features, behavior changes, bug fixes, and any features that are deprecated or removed. The goal is to maintain transparency with users&hellip;",
-            "content_html": "<p>I created official <strong data-start=\"39\" data-end=\"61\"><a href=\"https://changelog.fillvisa.com/\">Fillvisa Changelog</a></strong>, a public record of updates, fixes, and improvements across both <strong data-start=\"127\" data-end=\"144\"><a href=\"https://fillvisa.com/\">Fillvisa Free</a></strong> and <strong data-start=\"149\" data-end=\"166\"><a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a></strong>.</p>\n<p>This website documents new features, behavior changes, bug fixes, and any features that are deprecated or removed. The goal is to maintain transparency with users while keeping a clear history of how the product evolves over time.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/2//changelog.PNG\" alt=\"\" width=\"1808\" height=\"475\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/2//responsive/changelog-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/2//responsive/changelog-2xl.PNG 1920w\"></figure>\n<p> </p>\n<p>The changelog also closes the loop on user feedback. When users report bugs or issues in Fillvisa forms, confirmed fixes will be noted here so everyone can see what has been addressed. This helps us stay accountable and ensures that improvements are visible to the community using Fillvisa.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-03-11T04:35:26+05:30",
-            "date_modified": "2026-03-18T04:17:01+05:30"
         }
     ]
 }

@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
+            "url": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
+            "title": "Form Status: Edit Now Resets Review",
+            "summary": "Update for Fillvisa Plus: Form Status: Edit Now Resets Review Previously, forms in \"Review\" status would stay in review even after the client made edits - meaning preparers could be confirming a stale version without realizing it. Forms now reset to \"Active\" whenever an edit&hellip;",
+            "content_html": "<p>Update for <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>:</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Form Status: Edit Now Resets Review</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Previously, forms in \"Review\" status would stay in review even after the client made edits - meaning preparers could be confirming a stale version without realizing it.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Forms now reset to \"Active\" whenever an edit is saved. This ensures preparers always confirm the latest version of a form before it moves forward.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Update"
+            ],
+            "date_published": "2026-04-10T19:51:44+05:30",
+            "date_modified": "2026-04-10T19:52:02+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
             "url": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
             "title": "Form Submission Fixed - I-485",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-03-11T15:21:46+05:30",
             "date_modified": "2026-03-18T04:17:36+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/upgrade-page/",
-            "url": "https://changelog.fillvisa.com/upgrade-page/",
-            "title": "Upgrade page",
-            "summary": "I added a dedicated Upgrade Page in Fillvisa Plus to handle cases where a user’s trial period has ended. When a trial expires, certain application actions are restricted and the user is automatically redirected to the upgrade page, where they can review subscription options and&hellip;",
-            "content_html": "<p>I added a dedicated <strong data-start=\"63\" data-end=\"79\">Upgrade Page</strong> in Fillvisa Plus to handle cases where a user’s trial period has ended. When a trial expires, certain application actions are restricted and the user is automatically redirected to the upgrade page, where they can review subscription options and continue using the platform.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/4/upgrade.PNG\" alt=\"\" width=\"1080\" height=\"718\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/4/responsive/upgrade-2xl.PNG 1920w\"></figure>\n<p> </p>\n<p>This update helps ensure a smoother transition from trial to paid usage while clearly communicating the account status. Instead of encountering unexpected restrictions, users are guided to a single page that explains the limitation and provides a straightforward way to upgrade their plan.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-03-11T15:10:19+05:30",
-            "date_modified": "2026-03-18T04:17:08+05:30"
         }
     ]
 }

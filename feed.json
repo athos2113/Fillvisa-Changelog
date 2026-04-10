@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
+            "url": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
+            "title": "Form Submission Fixed - I-485",
+            "summary": "Fixed bugs on Form I-485 Two issues affecting the A-Number section of the I-485 form have been resolved: Both fields now validate correctly. If you were unable to submit the I-485 form before today, please try again.",
+            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Fixed bugs on <a href=\"https://fillvisa.com/form/i-485/\">Form I-485 </a></strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Two issues affecting the A-Number section of the I-485 form have been resolved:</p>\n<ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"whitespace-normal break-words pl-2\">A <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">name</code>/<code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">id</code> conflict between the radio buttons (\"Do you have an A-Number?\") and the A-Number text input was causing the validator to misread the field - incorrectly flagging a valid A-Number as an error and blocking form submission.</li>\n<li class=\"whitespace-normal break-words pl-2\">The visa issuance date field was incorrectly marked required, preventing submission when left blank.</li>\n</ul>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Both fields now validate correctly. If you were unable to submit the I-485 form before today, please try again.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-04-10T18:30:04+05:30",
+            "date_modified": "2026-04-10T18:31:33+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
             "url": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
             "title": "Automated trial reminders &amp; expiry for Plus users",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-03-11T15:10:19+05:30",
             "date_modified": "2026-03-18T04:17:08+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/dynamic-dashboard/",
-            "url": "https://changelog.fillvisa.com/dynamic-dashboard/",
-            "title": "Dynamic Dashboard",
-            "summary": "We introduced a new Dynamic Dashboard in Fillvisa Plus to give legal professionals and their clients a clearer overview of their work. The dashboard surfaces key information such as recent cases, forms in progress, and quick actions, allowing users to navigate their active workload without&hellip;",
-            "content_html": "<p>We introduced a new <strong data-start=\"67\" data-end=\"88\">Dynamic Dashboard</strong> in Fillvisa Plus to give legal professionals and their clients a clearer overview of their work. The dashboard surfaces key information such as recent cases, forms in progress, and quick actions, allowing users to navigate their active workload without having to manually browse through different sections of the application.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/3/dd1.PNG\" alt=\"\" width=\"1734\" height=\"602\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/3/responsive/dd1-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd1-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd1-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd1-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd1-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd1-2xl.PNG 1920w\"></figure>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/3/dd2.PNG\" alt=\"\" width=\"1323\" height=\"442\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/3/responsive/dd2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd2-2xl.PNG 1920w\"></figure>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/3/dd3-2.PNG\" alt=\"\" width=\"1311\" height=\"584\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/3/responsive/dd3-2-2xl.PNG 1920w\"></figure>\n<p> </p>\n<p>The dashboard updates automatically as cases and forms change, helping users quickly see what requires attention. This release focuses on improving day-to-day workflow by making important information easier to access immediately after login, reducing the need to search through multiple pages to find active work.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-03-11T04:45:44+05:30",
-            "date_modified": "2026-03-18T04:18:04+05:30"
         }
     ]
 }

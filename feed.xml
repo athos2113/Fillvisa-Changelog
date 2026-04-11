@@ -3,12 +3,33 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-04-10T19:52:02+05:30</updated>
+    <updated>2026-04-11T22:58:44+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Mark as Completed - post-download reveal</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/"/>
+        <id>https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/</id>
+            <category term="Added"/>
+
+        <updated>2026-04-11T22:58:44+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Form preparers can now mark a form as completed directly from the Download page. The button appears automatically once a PDF has been successfully generated, confirming the form is ready to close out. Clicking it opens a confirmation modal before locking the form.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Form preparers can now mark a form as completed directly from the Download page. The button appears automatically once a PDF has been successfully generated, confirming the form is ready to close out. Clicking it opens a confirmation modal before locking the form.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Form Status: Edit Now Resets Review</title>
         <author>
@@ -275,31 +296,6 @@
 <p>A <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">force</code> parameter was added to bypass this guard on explicit submission, ensuring the valid flag is always persisted. Additionally, the <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">formStatus</code> server global was corrected from incorrectly echoing the <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">form_id</code> string to properly injecting the actual status flags object from PHP, which fixes sidebar checkmarks being blank on page load.</p>
 <p> </p>
 <p>The page load experience was also significantly improved by eliminating the AJAX round-trip previously used to hydrate form fields on load. Form data and status flags are now inlined directly into the page by PHP at render time, meaning fields and sidebar status restore instantly without waiting for a network request to complete. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fixed: I-90 Form (Section 4 Disability Question)</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/"/>
-        <id>https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/</id>
-            <category term="Fixed"/>
-
-        <updated>2026-03-11T15:21:46+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    We fixed an issue in the Green Card Replacement (Form I-90) where the disability question in Section 4 could still prompt users for additional information even when “No” was selected for having a disability. This behavior caused confusion because the follow-up field should only appear&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>We fixed an issue in the <strong data-start="80" data-end="118"><a href="https://fillvisa.com/form/i-90">Green Card Replacement (Form I-90)</a></strong> where the disability question in <strong data-start="152" data-end="165">Section 4</strong> could still prompt users for additional information even when <strong data-start="228" data-end="236">“No”</strong> was selected for having a disability. This behavior caused confusion because the follow-up field should only appear when the user selects <strong data-start="375" data-end="385">“Yes.”</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/5/fixed.PNG" alt="" width="1771" height="137" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/5/responsive/fixed-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-2xl.PNG 1920w"></figure>
-<p>The issue was reported by a user on <strong data-start="423" data-end="434">March 8</strong>, and the form logic has now been corrected so that the follow-up question only appears when appropriate. Thanks to the user who reported this. These reports help me improve the reliability of Fillvisa forms.</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
-<source src="/media/files/fixed%20I90.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/",
+            "url": "https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/",
+            "title": "Mark as Completed - post-download reveal",
+            "summary": "Form preparers can now mark a form as completed directly from the Download page. The button appears automatically once a PDF has been successfully generated, confirming the form is ready to close out. Clicking it opens a confirmation modal before locking the form.",
+            "content_html": "<p>Form preparers can now mark a form as completed directly from the Download page. The button appears automatically once a PDF has been successfully generated, confirming the form is ready to close out. Clicking it opens a confirmation modal before locking the form.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-04-11T22:58:44+05:30",
+            "date_modified": "2026-04-11T22:58:44+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
             "url": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
             "title": "Form Status: Edit Now Resets Review",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-03-13T00:28:51+05:30",
             "date_modified": "2026-03-18T04:17:52+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/",
-            "url": "https://changelog.fillvisa.com/fixed-i-90-form-section-4-disability-question/",
-            "title": "Fixed: I-90 Form (Section 4 Disability Question)",
-            "summary": "We fixed an issue in the Green Card Replacement (Form I-90) where the disability question in Section 4 could still prompt users for additional information even when “No” was selected for having a disability. This behavior caused confusion because the follow-up field should only appear&hellip;",
-            "content_html": "<p>We fixed an issue in the <strong data-start=\"80\" data-end=\"118\"><a href=\"https://fillvisa.com/form/i-90\">Green Card Replacement (Form I-90)</a></strong> where the disability question in <strong data-start=\"152\" data-end=\"165\">Section 4</strong> could still prompt users for additional information even when <strong data-start=\"228\" data-end=\"236\">“No”</strong> was selected for having a disability. This behavior caused confusion because the follow-up field should only appear when the user selects <strong data-start=\"375\" data-end=\"385\">“Yes.”</strong></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/5/fixed.PNG\" alt=\"\" width=\"1771\" height=\"137\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/5/responsive/fixed-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/5/responsive/fixed-2xl.PNG 1920w\"></figure>\n<p>The issue was reported by a user on <strong data-start=\"423\" data-end=\"434\">March 8</strong>, and the form logic has now been corrected so that the follow-up question only appears when appropriate. Thanks to the user who reported this. These reports help me improve the reliability of Fillvisa forms.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"/media/files/fixed%20I90.mp4\" type=\"video/mp4\" /></video></figure>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Fixed"
-            ],
-            "date_published": "2026-03-11T15:21:46+05:30",
-            "date_modified": "2026-03-18T04:17:36+05:30"
         }
     ]
 }

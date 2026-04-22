@@ -3,12 +3,41 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-04-11T22:58:44+05:30</updated>
+    <updated>2026-04-22T11:18:02+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fixed: Form I-485 - PDF Field Length Error</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/"/>
+        <id>https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-04-22T11:10:27+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    What happened A user encountered an error when downloading a completed I-485: "I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname" The principal_firstname field in the underlying PDF spec&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>What happened</h2>
+<p>A user encountered an error when downloading a completed I-485:</p>
+<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/17/error_485-2.PNG" alt="" width="1221" height="130" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-2xl.PNG 1920w"></figure>
+<p class="msg msg--info">"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname"</p>
+<p> </p>
+<p>The <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">principal_firstname</code> field in the underlying PDF spec had a <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">maxLength</code> of 9 - too short for many real first names. When the generated PDF tried to write a longer value into that field, it threw an error and blocked the download.</p>
+<p> </p>
+<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold">What was fixed</h3>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Updated the PDF field spec for <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">principal_firstname</code> on Form I-485 to correctly reflect the actual allowed length. Downloads now complete without error regardless of name length.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mark as Completed - post-download reveal</title>
         <author>
@@ -271,31 +300,6 @@
 <div><hr></div>
 <p>Start your I-485 today → <a href="https://fillvisa.com/form/i-485/">Form I-485 – Adjustment of Status Package Online | Fillvisa</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Forms Autosave &amp; Load Reliability</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/update-forms-autosave-and-load-reliability/"/>
-        <id>https://changelog.fillvisa.com/update-forms-autosave-and-load-reliability/</id>
-            <category term="Update"/>
-
-        <updated>2026-03-13T00:28:51+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    This update resolves a critical bug where form validation status was not being persisted to the database after submission. The root cause was an early-exit guard in saveFormToServer() that skipped the save when field values hadn't changed — meaning the formValid flag set during submission&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This update resolves a critical bug where form validation status was not being persisted to the database after submission. The root cause was an early-exit guard in <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">saveFormToServer()</code> that skipped the save when field values hadn't changed — meaning the <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">formValid</code> flag set during submission was never actually written to the server.</p>
-<p> </p>
-<p>A <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">force</code> parameter was added to bypass this guard on explicit submission, ensuring the valid flag is always persisted. Additionally, the <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">formStatus</code> server global was corrected from incorrectly echoing the <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">form_id</code> string to properly injecting the actual status flags object from PHP, which fixes sidebar checkmarks being blank on page load.</p>
-<p> </p>
-<p>The page load experience was also significantly improved by eliminating the AJAX round-trip previously used to hydrate form fields on load. Form data and status flags are now inlined directly into the page by PHP at render time, meaning fields and sidebar status restore instantly without waiting for a network request to complete. </p>
             ]]>
         </content>
     </entry>

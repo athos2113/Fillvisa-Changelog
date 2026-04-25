@@ -11,9 +11,9 @@
     },
     "items": [
         {
-            "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-2/",
-            "url": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-2/",
-            "title": "Fixed: Form I-485 - PDF Field Length Error",
+            "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/",
+            "url": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/",
+            "title": "Fixed: Form I-485 - PDF Field Length Error of Receipt Number of Underlying Petition",
             "summary": "What happened A user encountered an error when downloading a completed I-485: \"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname\" The eoir_number field in the underlying PDF spec&hellip;",
             "content_html": "<h2>What happened</h2>\n<p>A user encountered an error when downloading a completed I-485:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/18/noname.png\" alt=\"\" width=\"1134\" height=\"88\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/18/responsive/noname-xs.png 640w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-sm.png 768w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-md.png 1024w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-lg.png 1366w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-xl.png 1600w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-2xl.png 1920w\"></figure>\n<p class=\"msg msg--info\">\"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname\"</p>\n<p> </p>\n<p>The <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">eoir_number</code> field in the underlying PDF spec had a <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">maxLength</code> of 9 - too short for many real Receipt Number of Underlying Petition. When the generated PDF tried to write a longer value into that field, it threw an error and blocked the download.</p>\n<p> </p>\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\">What was fixed</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Updated the PDF field spec for <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">eoir_number</code> on Form I-485 to correctly reflect the actual allowed length. Downloads now complete without error regardless of name length.</p>",
             "author": {
@@ -23,7 +23,7 @@
                    "Fixed"
             ],
             "date_published": "2026-04-25T22:16:24+05:30",
-            "date_modified": "2026-04-25T22:20:30+05:30"
+            "date_modified": "2026-04-25T22:21:44+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/",

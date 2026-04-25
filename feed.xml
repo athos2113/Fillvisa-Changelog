@@ -3,19 +3,19 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-04-25T22:20:30+05:30</updated>
+    <updated>2026-04-25T22:21:44+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
     <entry>
-        <title>Fixed: Form I-485 - PDF Field Length Error</title>
+        <title>Fixed: Form I-485 - PDF Field Length Error of Receipt Number of Underlying Petition</title>
         <author>
             <name>Junaid Khan</name>
         </author>
-        <link href="https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-2/"/>
-        <id>https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-2/</id>
+        <link href="https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/"/>
+        <id>https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/</id>
             <category term="Fixed"/>
 
         <updated>2026-04-25T22:16:24+05:30</updated>

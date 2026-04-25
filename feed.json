@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-2/",
+            "url": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-2/",
+            "title": "Fixed: Form I-485 - PDF Field Length Error",
+            "summary": "What happened A user encountered an error when downloading a completed I-485: \"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname\" The eoir_number field in the underlying PDF spec&hellip;",
+            "content_html": "<h2>What happened</h2>\n<p>A user encountered an error when downloading a completed I-485:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/18/noname.png\" alt=\"\" width=\"1134\" height=\"88\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/18/responsive/noname-xs.png 640w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-sm.png 768w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-md.png 1024w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-lg.png 1366w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-xl.png 1600w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-2xl.png 1920w\"></figure>\n<p class=\"msg msg--info\">\"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname\"</p>\n<p> </p>\n<p>The <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">eoir_number</code> field in the underlying PDF spec had a <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">maxLength</code> of 9 - too short for many real Receipt Number of Underlying Petition. When the generated PDF tried to write a longer value into that field, it threw an error and blocked the download.</p>\n<p> </p>\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\">What was fixed</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Updated the PDF field spec for <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">eoir_number</code> on Form I-485 to correctly reflect the actual allowed length. Downloads now complete without error regardless of name length.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-04-25T22:16:24+05:30",
+            "date_modified": "2026-04-25T22:20:30+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/",
             "url": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/",
             "title": "Fixed: Form I-485 - PDF Field Length Error",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-03-26T00:44:40+05:30",
             "date_modified": "2026-03-26T00:48:06+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/i-485-form-is-live/",
-            "url": "https://changelog.fillvisa.com/i-485-form-is-live/",
-            "title": "🎉 I-485 Form is live",
-            "summary": "We’ve officially Form I-485 (Application to Register Permanent Residence or Adjust Status) on Fillvisa. You can now complete the full I-485 form using our smart, step-by-step interface - designed to simplify one of the most complex USCIS forms. Each section is broken down clearly, with&hellip;",
-            "content_html": "<p class=\"isSelectedEnd\">We’ve officially <a href=\"https://fillvisa.com/form/i-485/\"><strong>Form I-485 (Application to Register Permanent Residence or Adjust Status)</strong> on Fillvisa</a>.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/8/i485_demo.PNG\" alt=\"\" width=\"1907\" height=\"1004\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/8/responsive/i485_demo-2xl.PNG 1920w\"></figure>\n<p class=\"isSelectedEnd\">You can now complete the full I-485 form using our smart, step-by-step interface - designed to simplify one of the most complex USCIS forms. Each section is broken down clearly, with structured inputs, validations, and guidance to help you avoid common mistakes that lead to delays or rejections.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"/media/files/i485_demo.mp4\" type=\"video/mp4\" /></video></figure>\n<p class=\"isSelectedEnd\">The form supports multi-page progress, autosave, and seamless export into the official USCIS PDF format. Whether you’re filing on your own or preparing documents for review, you now have a faster and more reliable way to complete your I-485.</p>\n<div><hr></div>\n<h3>✨ What’s included</h3>\n<ul data-spread=\"false\">\n<li>\n<p class=\"isSelectedEnd\">Full I-485 form (all parts supported)</p>\n</li>\n<li>\n<p>Smart inputs with validation</p>\n</li>\n<li>\n<p class=\"isSelectedEnd\">Autosave across sections</p>\n</li>\n<li>\n<p class=\"isSelectedEnd\">Clean export to official USCIS PDF</p>\n</li>\n<li>\n<p class=\"isSelectedEnd\">Mobile-friendly experience</p>\n</li>\n</ul>\n<div><hr></div>\n<p>Start your I-485 today → <a href=\"https://fillvisa.com/form/i-485/\">Form I-485 – Adjustment of Status Package Online | Fillvisa</a></p>\n<p> </p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-03-20T02:06:13+05:30",
-            "date_modified": "2026-03-20T02:21:01+05:30"
         }
     ]
 }

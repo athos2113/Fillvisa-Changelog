@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/ds-160-autofill-all-fields-now-fill-correctly/",
+            "url": "https://changelog.fillvisa.com/ds-160-autofill-all-fields-now-fill-correctly/",
+            "title": "DS-160 autofill: all fields now fill correctly",
+            "summary": "We've pushed an update to the DS-160 form + autofill bookmarklet that resolves field-skipping issues reported by users. Previously, certain fields on the CEAC portal were being left blank during an autofill session - those fields now fill correctly, and with no delay. What changed&hellip;",
+            "content_html": "<p>We've pushed an update to the <a href=\"https://fillvisa.com/form/usa-ds160/\">DS-160 form + autofill bookmarklet</a> that resolves field-skipping issues reported by users. Previously, certain fields on the CEAC portal were being left blank during an autofill session - those fields now fill correctly, and with no delay.</p>\n<div>\n<p>What changed</p>\n<ul>\n<li>Fixed: fields that were silently skipped during autofill now populate as expected</li>\n<li>Fixed: removed unintended delay between field fills - the sequence now runs smoothly end-to-end</li>\n<li>Fixed: Added additional form page \"spouse\" for entering spouse details</li>\n</ul>\n</div>\n<p>If you're using the bookmarklet, re-install it from <a href=\"https://fillvisa.com/form/usa-ds160/\">Fillvisa DS-160</a> to get the latest version. Reach out via the site if you run into anything unexpected.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Update"
+            ],
+            "date_published": "2026-05-18T15:23:54-05:00",
+            "date_modified": "2026-05-18T15:25:46-05:00"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/",
             "url": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/",
             "title": "Fixed: Form I-485 - PDF Field Length Error of Receipt Number of Underlying Petition",
@@ -22,8 +37,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-25T22:16:24+05:30",
-            "date_modified": "2026-04-25T22:21:44+05:30"
+            "date_published": "2026-04-25T11:46:24-05:00",
+            "date_modified": "2026-04-25T11:51:44-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/",
@@ -37,8 +52,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-22T11:10:27+05:30",
-            "date_modified": "2026-04-22T11:18:02+05:30"
+            "date_published": "2026-04-22T00:40:27-05:00",
+            "date_modified": "2026-04-22T00:48:02-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/",
@@ -52,8 +67,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-04-11T22:58:44+05:30",
-            "date_modified": "2026-04-11T22:58:44+05:30"
+            "date_published": "2026-04-11T12:28:44-05:00",
+            "date_modified": "2026-04-11T12:28:44-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
@@ -67,8 +82,8 @@
             "tags": [
                    "Update"
             ],
-            "date_published": "2026-04-10T19:51:44+05:30",
-            "date_modified": "2026-04-10T19:52:02+05:30"
+            "date_published": "2026-04-10T09:21:44-05:00",
+            "date_modified": "2026-04-10T09:22:02-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
@@ -82,8 +97,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-10T18:30:04+05:30",
-            "date_modified": "2026-04-10T18:31:33+05:30"
+            "date_published": "2026-04-10T08:00:04-05:00",
+            "date_modified": "2026-04-10T08:01:33-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
@@ -97,8 +112,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-04-09T14:01:59+05:30",
-            "date_modified": "2026-04-09T14:04:29+05:30"
+            "date_published": "2026-04-09T03:31:59-05:00",
+            "date_modified": "2026-04-09T03:34:29-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/",
@@ -112,8 +127,8 @@
             "tags": [
                    "Update"
             ],
-            "date_published": "2026-04-04T15:30:23+05:30",
-            "date_modified": "2026-04-04T15:30:33+05:30"
+            "date_published": "2026-04-04T05:00:23-05:00",
+            "date_modified": "2026-04-04T05:00:33-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/interactive-demo-case-for-plus-users/",
@@ -127,8 +142,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-03-31T11:47:31+05:30",
-            "date_modified": "2026-03-31T12:00:39+05:30"
+            "date_published": "2026-03-31T01:17:31-05:00",
+            "date_modified": "2026-03-31T01:30:39-05:00"
         },
         {
             "id": "https://changelog.fillvisa.com/n-400-form-bug-fixes/",
@@ -142,23 +157,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-03-26T12:11:51+05:30",
-            "date_modified": "2026-03-26T12:15:31+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/registration-welcome-email/",
-            "url": "https://changelog.fillvisa.com/registration-welcome-email/",
-            "title": "Registration Welcome Email",
-            "summary": "Fillvisa Plus now sends transactional emails. When you create a new account, you'll receive a welcome email confirming your registration and the start of your 10-day trial. This is the foundation for upcoming email notifications - including trial expiry reminders and account updates - so&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Fillvisa Plus now sends transactional emails.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">When you create a new account, you'll receive a welcome email confirming your registration and the start of your 10-day trial.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/9/noname.png\" alt=\"\" width=\"932\" height=\"469\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/9/responsive/noname-xs.png 640w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-sm.png 768w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-md.png 1024w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-lg.png 1366w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-xl.png 1600w ,https://changelog.fillvisa.com/media/posts/9/responsive/noname-2xl.png 1920w\"></figure>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">This is the foundation for upcoming email notifications - including trial expiry reminders and account updates - so you're always in the loop on your account status.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-03-26T00:44:40+05:30",
-            "date_modified": "2026-03-26T00:48:06+05:30"
+            "date_published": "2026-03-26T01:41:51-05:00",
+            "date_modified": "2026-03-26T01:45:31-05:00"
         }
     ]
 }

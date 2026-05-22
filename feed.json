@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
+            "url": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
+            "title": "Fix: I-485 Interpreter Last Name Field",
+            "summary": "The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.",
+            "content_html": "<p>The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-05-22T14:23:27-05:00",
+            "date_modified": "2026-05-22T14:23:40-05:00"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fix-i-485-current-spouse-last-name-field/",
             "url": "https://changelog.fillvisa.com/fix-i-485-current-spouse-last-name-field/",
             "title": "Fix: I-485 Current Spouse Last Name Field",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-04-04T05:00:23-05:00",
             "date_modified": "2026-04-04T05:00:33-05:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/interactive-demo-case-for-plus-users/",
-            "url": "https://changelog.fillvisa.com/interactive-demo-case-for-plus-users/",
-            "title": "Interactive Demo Case for Plus Users",
-            "summary": "Fillvisa Plus users can now walk through a fully guided demo case - from adding a contact to generating a filled USCIS PDF - before touching any real data. Getting started with a new tool is hard when you're staring at an empty dashboard. We&hellip;",
-            "content_html": "<p>Fillvisa Plus users can now walk through a fully guided demo case - from adding a contact to generating a filled USCIS PDF - before touching any real data.</p>\n<p>Getting started with a new tool is hard when you're staring at an empty dashboard. We built the Demo Case to fix that.</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"/media/files/plus_onboard_demo.mp4\" type=\"video/mp4\" /></video></figure>\n<p>The demo covers all five steps:</p>\n<ol>\n<li><span class=\"token token bold content\">Add a contact</span> - create a portal account for your client</li>\n<li><span class=\"token token bold content\">Start a case</span> - open a new immigration case and link it to a contact</li>\n<li><span class=\"token token bold content\">Select a form</span> - pick a form template from the USCIS library</li>\n<li><span class=\"token token bold content\">Assign a collaborator</span> - invite your client or a team member to the form</li>\n<li><span class=\"token token bold content\">Fill the form</span> - complete the fields and generate a filled, ready-to-file USCIS PDF </li>\n</ol>\n<p>Each step has an embedded guided tour that explains what's happening and why - so by the time you're done, you've seen exactly how a real immigration case comes together in Fillvisa.</p>\n<p>Progress is tracked locally so you can pick up where you left off. Once all five steps are complete, the dashboard shows links to the knowledge base and your main dashboard.</p>\n<p>The demo is available to all Fillvisa Plus users from the home dashboard.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-03-31T01:17:31-05:00",
-            "date_modified": "2026-03-31T01:30:39-05:00"
         }
     ]
 }

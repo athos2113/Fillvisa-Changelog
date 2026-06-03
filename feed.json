@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/",
+            "url": "https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/",
+            "title": "Fix: I-485 Country of birth field now accepts full country names",
+            "summary": "Received an error: The Current Spouse &gt; Country of Birth field was rejecting inputs longer than 9 characters - cutting off countries like \"Bangladesh\" or \"El Salvador.\" The field limit has been corrected. All country names now save and download properly.",
+            "content_html": "<p>Received an error:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://changelog.fillvisa.com/media/posts/22//error_485_2.PNG\" alt=\"\" width=\"406\" height=\"182\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-2xl.PNG 1920w\"></figure>\n<p>The <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">Current Spouse &gt; Country of Birth</code> field was rejecting inputs longer than 9 characters - cutting off countries like \"Bangladesh\" or \"El Salvador.\" The field limit has been corrected. All country names now save and download properly.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-06-02T18:47:39-07:00",
+            "date_modified": "2026-06-02T18:48:44-07:00"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
             "url": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
             "title": "Fix: I-485 Interpreter Last Name Field",
@@ -22,8 +37,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-05-22T14:23:27-05:00",
-            "date_modified": "2026-05-22T14:23:40-05:00"
+            "date_published": "2026-05-22T12:23:27-07:00",
+            "date_modified": "2026-05-22T12:23:40-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fix-i-485-current-spouse-last-name-field/",
@@ -37,8 +52,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-05-22T13:22:18-05:00",
-            "date_modified": "2026-05-22T13:23:15-05:00"
+            "date_published": "2026-05-22T11:22:18-07:00",
+            "date_modified": "2026-05-22T11:23:15-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/ds-160-autofill-all-fields-now-fill-correctly/",
@@ -52,8 +67,8 @@
             "tags": [
                    "Update"
             ],
-            "date_published": "2026-05-18T15:23:54-05:00",
-            "date_modified": "2026-05-18T15:25:46-05:00"
+            "date_published": "2026-05-18T13:23:54-07:00",
+            "date_modified": "2026-05-18T13:25:46-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/",
@@ -67,8 +82,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-25T11:46:24-05:00",
-            "date_modified": "2026-04-25T11:51:44-05:00"
+            "date_published": "2026-04-25T09:46:24-07:00",
+            "date_modified": "2026-04-25T09:51:44-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/",
@@ -82,8 +97,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-22T00:40:27-05:00",
-            "date_modified": "2026-04-22T00:48:02-05:00"
+            "date_published": "2026-04-21T22:40:27-07:00",
+            "date_modified": "2026-04-21T22:48:02-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/",
@@ -97,8 +112,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-04-11T12:28:44-05:00",
-            "date_modified": "2026-04-11T12:28:44-05:00"
+            "date_published": "2026-04-11T10:28:44-07:00",
+            "date_modified": "2026-04-11T10:28:44-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
@@ -112,8 +127,8 @@
             "tags": [
                    "Update"
             ],
-            "date_published": "2026-04-10T09:21:44-05:00",
-            "date_modified": "2026-04-10T09:22:02-05:00"
+            "date_published": "2026-04-10T07:21:44-07:00",
+            "date_modified": "2026-04-10T07:22:02-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
@@ -127,8 +142,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-10T08:00:04-05:00",
-            "date_modified": "2026-04-10T08:01:33-05:00"
+            "date_published": "2026-04-10T06:00:04-07:00",
+            "date_modified": "2026-04-10T06:01:33-07:00"
         },
         {
             "id": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
@@ -142,23 +157,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-04-09T03:31:59-05:00",
-            "date_modified": "2026-04-09T03:34:29-05:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/",
-            "url": "https://changelog.fillvisa.com/improved-error-feedback-on-pdf-download/",
-            "title": "🛠️ Improved Error Feedback on PDF Download",
-            "summary": "Previously, if something went wrong while generating your PDF, the page would silently do nothing - no message, no indication of what happened. We've fixed that. The download page now detects errors in real time and surfaces them directly on screen, so you always know&hellip;",
-            "content_html": "<p>Previously, if something went wrong while generating your PDF, the page would silently do nothing - no message, no indication of what happened.</p>\n<p>We've fixed that.<br><br>The download page now detects errors in real time and surfaces them directly on screen, so you always know what's going on.</p>\n<h3>What's new</h3>\n<ul>\n<li>Error toast - if PDF generation fails, a message appears immediately with details about what went wrong</li>\n<li>Success toast - a brief confirmation when your PDF is ready and downloading</li>\n<li>Button state - the Generate PDF button now shows a loading spinner while working, and resets cleanly after success or failure</li>\n</ul>\n<h3>Why it matters</h3>\n<p>Silent failures are frustrating. You shouldn't have to wonder if something broke - and we shouldn't have to guess either. This change makes issues visible the moment they happen, for both you and us.</p>\n<p>If you ever see an error message, the details shown are exactly what our support team needs. </p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Update"
-            ],
-            "date_published": "2026-04-04T05:00:23-05:00",
-            "date_modified": "2026-04-04T05:00:33-05:00"
+            "date_published": "2026-04-09T01:31:59-07:00",
+            "date_modified": "2026-04-09T01:34:29-07:00"
         }
     ]
 }

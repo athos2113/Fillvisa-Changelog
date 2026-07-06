@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/g-1450-is-live/",
+            "url": "https://changelog.fillvisa.com/g-1450-is-live/",
+            "title": "G-1450 is live 🎉",
+            "summary": "Authorization for Credit Card Transactions - now available on Fillvisa Plus. What's new Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together. Why Plus G-1450 is a payment authorization tied to a&hellip;",
+            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Authorization for Credit Card Transactions - now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why Plus</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">G-1450 is a payment authorization tied to a professional's filing on a client's behalf, not something a self-filer typically submits alone - so it belongs in Plus alongside the rest of the case's paperwork.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-07-06T15:32:40-04:00",
+            "date_modified": "2026-07-06T15:32:47-04:00"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/g-28-is-live/",
+            "url": "https://changelog.fillvisa.com/g-28-is-live/",
+            "title": "G-28 is live 🎉",
+            "summary": "Notice of Entry of Appearance as Attorney or Accredited Representative - now available on Fillvisa Plus. What's new Fill G-28 and attach it directly to a case in Plus, so your appearance is on file right alongside the petition it supports. Why Plus There's no&hellip;",
+            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Notice of Entry of Appearance as Attorney or Accredited Representative - now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill G-28 and attach it directly to a case in Plus, so your appearance is on file right alongside the petition it supports.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why Plus</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">There's no self-filed version of a G-28 - it only exists when someone is representing a client before USCIS. That puts it squarely in Plus, next to the rest of your case and client management.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-07-06T15:31:27-04:00",
+            "date_modified": "2026-07-06T15:32:01-04:00"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/i-140-is-live/",
+            "url": "https://changelog.fillvisa.com/i-140-is-live/",
+            "title": "I-140 is live 🎉",
+            "summary": "The Immigrant Petition for Alien Worker is now available on Fillvisa Plus. Attorneys and PERM specialists can now fill, manage, and generate I-140 petitions directly in Plus - alongside the rest of the PERM workflow (ETA-9089, ETA-9141, G-28). I-140 is filed by an employer or&hellip;",
+            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\" data-sourcepos=\"3:1-3:105;18-122\">The Immigrant Petition for Alien Worker is now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\" data-sourcepos=\"5:1-5:15;124-138\">What's new</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal\" data-sourcepos=\"7:1-7:169;140-308\">Attorneys and PERM specialists can now fill, manage, and generate I-140 petitions directly in Plus - alongside the rest of the PERM workflow (ETA-9089, ETA-9141, G-28).</p>\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\" data-sourcepos=\"9:1-9:13;310-322\">Why Plus</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal\" data-sourcepos=\"11:1-11:203;324-526\">I-140 is filed by an employer or their representative on behalf of a beneficiary, not self-filed - so it lives where the case management and firm-level tooling already are, rather than on Fillvisa Free.</p>\n<h3 class=\"text-text-100 mt-2 -mb-1 text-base font-bold\" data-sourcepos=\"13:1-13:16;528-543\">What's next</h3>\n<p class=\"font-claude-response-body break-words whitespace-normal\" data-sourcepos=\"15:1-15:93;545-637\">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\" data-sourcepos=\"17:1-17:126;639-764\">Questions or a form you'd like to see prioritized? Reach out - we're building this based on what practitioners actually need.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-07-06T15:29:30-04:00",
+            "date_modified": "2026-07-06T15:31:57-04:00"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/i-130-is-now-live/",
+            "url": "https://changelog.fillvisa.com/i-130-is-now-live/",
+            "title": "I-130 is now live 🎉",
+            "summary": "The I-130, Petition for Alien Relative, is now available on Fillvisa - and it's live on Fillvisa Free. If you're a U.S. citizen or lawful permanent resident petitioning for a spouse, parent, child, or sibling, you can now fill out the I-130 directly in your&hellip;",
+            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">The <strong><a href=\"https://fillvisa.com/form/i-130/\">I-130, Petition for Alien Relative</a></strong>, is now available on Fillvisa - and it's live on <strong>Fillvisa Free</strong>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">If you're a U.S. citizen or lawful permanent resident petitioning for a spouse, parent, child, or sibling, you can now fill out the I-130 directly in your browser - no account, no server uploads, nothing ever leaves your device.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What you can do:</strong></p>\n<ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Fill out the I-130 form field-by-field with guided help</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Generate an official, submission-ready PDF</li>\n<li class=\"font-claude-response-body whitespace-normal break-words pl-2\">Keep everything private - Fillvisa Free never touches a server</li>\n</ul>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Petitioners self-filing for a family member are exactly who this tool is built for. Give it a try at <a href=\"https://fillvisa.com/form/i-130/\">fillvisa.com</a></p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-07-06T15:26:05-04:00",
+            "date_modified": "2026-07-06T15:26:05-04:00"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/",
             "url": "https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/",
             "title": "Fix: I-485 Country of birth field now accepts full country names",
@@ -22,8 +82,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-06-02T18:47:39-07:00",
-            "date_modified": "2026-06-02T18:48:44-07:00"
+            "date_published": "2026-06-02T21:47:39-04:00",
+            "date_modified": "2026-06-02T21:48:44-04:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
@@ -37,8 +97,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-05-22T12:23:27-07:00",
-            "date_modified": "2026-05-22T12:23:40-07:00"
+            "date_published": "2026-05-22T15:23:27-04:00",
+            "date_modified": "2026-05-22T15:23:40-04:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fix-i-485-current-spouse-last-name-field/",
@@ -52,8 +112,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-05-22T11:22:18-07:00",
-            "date_modified": "2026-05-22T11:23:15-07:00"
+            "date_published": "2026-05-22T14:22:18-04:00",
+            "date_modified": "2026-05-22T14:23:15-04:00"
         },
         {
             "id": "https://changelog.fillvisa.com/ds-160-autofill-all-fields-now-fill-correctly/",
@@ -67,8 +127,8 @@
             "tags": [
                    "Update"
             ],
-            "date_published": "2026-05-18T13:23:54-07:00",
-            "date_modified": "2026-05-18T13:25:46-07:00"
+            "date_published": "2026-05-18T16:23:54-04:00",
+            "date_modified": "2026-05-18T16:25:46-04:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/",
@@ -82,8 +142,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-25T09:46:24-07:00",
-            "date_modified": "2026-04-25T09:51:44-07:00"
+            "date_published": "2026-04-25T12:46:24-04:00",
+            "date_modified": "2026-04-25T12:51:44-04:00"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/",
@@ -97,68 +157,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-04-21T22:40:27-07:00",
-            "date_modified": "2026-04-21T22:48:02-07:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/",
-            "url": "https://changelog.fillvisa.com/mark-as-completed-post-download-reveal/",
-            "title": "Mark as Completed - post-download reveal",
-            "summary": "Form preparers can now mark a form as completed directly from the Download page. The button appears automatically once a PDF has been successfully generated, confirming the form is ready to close out. Clicking it opens a confirmation modal before locking the form.",
-            "content_html": "<p>Form preparers can now mark a form as completed directly from the Download page. The button appears automatically once a PDF has been successfully generated, confirming the form is ready to close out. Clicking it opens a confirmation modal before locking the form.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-04-11T10:28:44-07:00",
-            "date_modified": "2026-04-11T10:28:44-07:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
-            "url": "https://changelog.fillvisa.com/form-status-edit-now-resets-review/",
-            "title": "Form Status: Edit Now Resets Review",
-            "summary": "Update for Fillvisa Plus: Form Status: Edit Now Resets Review Previously, forms in \"Review\" status would stay in review even after the client made edits - meaning preparers could be confirming a stale version without realizing it. Forms now reset to \"Active\" whenever an edit&hellip;",
-            "content_html": "<p>Update for <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>:</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Form Status: Edit Now Resets Review</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Previously, forms in \"Review\" status would stay in review even after the client made edits - meaning preparers could be confirming a stale version without realizing it.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Forms now reset to \"Active\" whenever an edit is saved. This ensures preparers always confirm the latest version of a form before it moves forward.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Update"
-            ],
-            "date_published": "2026-04-10T07:21:44-07:00",
-            "date_modified": "2026-04-10T07:22:02-07:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
-            "url": "https://changelog.fillvisa.com/form-submission-fixed-i-485/",
-            "title": "Form Submission Fixed - I-485",
-            "summary": "Fixed bugs on Form I-485 Two issues affecting the A-Number section of the I-485 form have been resolved: Both fields now validate correctly. If you were unable to submit the I-485 form before today, please try again.",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Fixed bugs on <a href=\"https://fillvisa.com/form/i-485/\">Form I-485 </a></strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Two issues affecting the A-Number section of the I-485 form have been resolved:</p>\n<ul class=\"[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\">\n<li class=\"whitespace-normal break-words pl-2\">A <code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">name</code>/<code class=\"bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]\">id</code> conflict between the radio buttons (\"Do you have an A-Number?\") and the A-Number text input was causing the validator to misread the field - incorrectly flagging a valid A-Number as an error and blocking form submission.</li>\n<li class=\"whitespace-normal break-words pl-2\">The visa issuance date field was incorrectly marked required, preventing submission when left blank.</li>\n</ul>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Both fields now validate correctly. If you were unable to submit the I-485 form before today, please try again.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Fixed"
-            ],
-            "date_published": "2026-04-10T06:00:04-07:00",
-            "date_modified": "2026-04-10T06:01:33-07:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
-            "url": "https://changelog.fillvisa.com/automated-trial-reminders-and-expiry-fillvisa-plus/",
-            "title": "Automated trial reminders &amp; expiry for Plus users",
-            "summary": "Your trial now comes with a heads-up 👋 We've added automated reminders so you never get caught off guard by your trial ending. Trial users now receive automated email reminders as their trial approaches expiry - one at 2 days out, one at 1 day&hellip;",
-            "content_html": "<p>Your trial now comes with a heads-up 👋</p>\n<p>We've added automated reminders so you never get caught off guard by your trial ending.</p>\n<p>Trial users now receive automated email reminders as their trial approaches expiry - one at 2 days out, one at 1 day out. On the expiry date, accounts are automatically transitioned and a final email is sent with a prompt to upgrade and recover their data.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-04-09T01:31:59-07:00",
-            "date_modified": "2026-04-09T01:34:29-07:00"
+            "date_published": "2026-04-22T01:40:27-04:00",
+            "date_modified": "2026-04-22T01:48:02-04:00"
         }
     ]
 }

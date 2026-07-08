@@ -3,12 +3,95 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-07-06T15:32:47-04:00</updated>
+    <updated>2026-07-08T12:16:16-05:00</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>🛠️ PDF preview before download</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/pdf-preview-before-download/"/>
+        <id>https://changelog.fillvisa.com/pdf-preview-before-download/</id>
+
+        <updated>2026-07-08T12:16:05-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device. What's new The download page now embeds a live preview of your completed form, so you can review formatting, check&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">The download page now embeds a live preview of your completed form, so you can review formatting, check that every field looks right, and catch anything off before you download.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why it matters</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">No more downloading a form just to check it, then redoing it if something's wrong. Review first, download once you're confident it's correct.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More <a href="https://fillvisa.com/form">forms </a>are on the way. Follow this <a href="changelog.fillvisa.com">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a feature you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I-907 is live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/i-907-is-live/"/>
+        <id>https://changelog.fillvisa.com/i-907-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-07-08T12:12:40-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Request for Premium Processing Service - now available on Fillvisa Plus. What's new Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition. Why Plus I-907 is filed by a professional on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Request for Premium Processing Service - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">I-907 is filed by a professional on a client's or employer's behalf to expedite an existing petition - not something a self-filer submits on its own - so it belongs in Plus alongside the rest of the case's paperwork.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>G-1650 is live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/g-1650-is-live/"/>
+        <id>https://changelog.fillvisa.com/g-1650-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-07-08T12:10:37-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Authorization for Electronic Signature - now available on Fillvisa Plus. What's new Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports. Why Plus G-1650 accompanies forms filed by a professional&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Authorization for Electronic Signature - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">G-1650 accompanies forms filed by a professional on a client's behalf, not a self-filed submission - so it belongs in Plus alongside the rest of the case's paperwork.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>G-1450 is live 🎉</title>
         <author>
@@ -18,7 +101,7 @@
         <id>https://changelog.fillvisa.com/g-1450-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T15:32:40-04:00</updated>
+        <updated>2026-07-06T14:32:40-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     Authorization for Credit Card Transactions - now available on Fillvisa Plus. What's new Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together. Why Plus G-1450 is a payment authorization tied to a&hellip;
@@ -46,7 +129,7 @@
         <id>https://changelog.fillvisa.com/g-28-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T15:31:27-04:00</updated>
+        <updated>2026-07-06T14:31:27-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     Notice of Entry of Appearance as Attorney or Accredited Representative - now available on Fillvisa Plus. What's new Fill G-28 and attach it directly to a case in Plus, so your appearance is on file right alongside the petition it supports. Why Plus There's no&hellip;
@@ -74,7 +157,7 @@
         <id>https://changelog.fillvisa.com/i-140-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T15:29:30-04:00</updated>
+        <updated>2026-07-06T14:29:30-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     The Immigrant Petition for Alien Worker is now available on Fillvisa Plus. Attorneys and PERM specialists can now fill, manage, and generate I-140 petitions directly in Plus - alongside the rest of the PERM workflow (ETA-9089, ETA-9141, G-28). I-140 is filed by an employer or&hellip;
@@ -102,7 +185,7 @@
         <id>https://changelog.fillvisa.com/i-130-is-now-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T15:26:05-04:00</updated>
+        <updated>2026-07-06T14:26:05-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     The I-130, Petition for Alien Relative, is now available on Fillvisa - and it's live on Fillvisa Free. If you're a U.S. citizen or lawful permanent resident petitioning for a spouse, parent, child, or sibling, you can now fill out the I-130 directly in your&hellip;
@@ -131,7 +214,7 @@
         <id>https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/</id>
             <category term="Fixed"/>
 
-        <updated>2026-06-02T21:47:39-04:00</updated>
+        <updated>2026-06-02T20:47:39-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     Received an error: The Current Spouse &gt; Country of Birth field was rejecting inputs longer than 9 characters - cutting off countries like "Bangladesh" or "El Salvador." The field limit has been corrected. All country names now save and download properly.
@@ -154,7 +237,7 @@
         <id>https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/</id>
             <category term="Fixed"/>
 
-        <updated>2026-05-22T15:23:27-04:00</updated>
+        <updated>2026-05-22T14:23:27-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.
@@ -175,7 +258,7 @@
         <id>https://changelog.fillvisa.com/fix-i-485-current-spouse-last-name-field/</id>
             <category term="Fixed"/>
 
-        <updated>2026-05-22T14:22:18-04:00</updated>
+        <updated>2026-05-22T13:22:18-05:00</updated>
             <summary type="html">
                 <![CDATA[
                     Fixed a validation error that blocked form submission when a spouse's last name exceeded 9 characters. The currentspouse_lastname field now correctly accepts names up to the full allowed length.
@@ -187,94 +270,6 @@
 <figure class="post__image"><img loading="lazy"  style="font-size: inherit; outline: rgba(16, 137, 255, 0.55) solid 2.66667px !important;" src="https://changelog.fillvisa.com/media/posts/20/changelog.PNG" alt="" width="1455" height="158" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/20/responsive/changelog-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/20/responsive/changelog-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/20/responsive/changelog-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/20/responsive/changelog-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/20/responsive/changelog-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/20/responsive/changelog-2xl.PNG 1920w"></figure>
 <p>The <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">currentspouse_lastname</code> field now correctly accepts names up to the full allowed length.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>DS-160 autofill: all fields now fill correctly</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/ds-160-autofill-all-fields-now-fill-correctly/"/>
-        <id>https://changelog.fillvisa.com/ds-160-autofill-all-fields-now-fill-correctly/</id>
-            <category term="Update"/>
-
-        <updated>2026-05-18T16:23:54-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    We've pushed an update to the DS-160 form + autofill bookmarklet that resolves field-skipping issues reported by users. Previously, certain fields on the CEAC portal were being left blank during an autofill session - those fields now fill correctly, and with no delay. What changed&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>We've pushed an update to the <a href="https://fillvisa.com/form/usa-ds160/">DS-160 form + autofill bookmarklet</a> that resolves field-skipping issues reported by users. Previously, certain fields on the CEAC portal were being left blank during an autofill session - those fields now fill correctly, and with no delay.</p>
-<div>
-<p>What changed</p>
-<ul>
-<li>Fixed: fields that were silently skipped during autofill now populate as expected</li>
-<li>Fixed: removed unintended delay between field fills - the sequence now runs smoothly end-to-end</li>
-<li>Fixed: Added additional form page "spouse" for entering spouse details</li>
-</ul>
-</div>
-<p>If you're using the bookmarklet, re-install it from <a href="https://fillvisa.com/form/usa-ds160/">Fillvisa DS-160</a> to get the latest version. Reach out via the site if you run into anything unexpected.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fixed: Form I-485 - PDF Field Length Error of Receipt Number of Underlying Petition</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/"/>
-        <id>https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error-of-receipt-number-of-underlying-petition/</id>
-            <category term="Fixed"/>
-
-        <updated>2026-04-25T12:46:24-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    What happened A user encountered an error when downloading a completed I-485: "I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname" The eoir_number field in the underlying PDF spec&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>What happened</h2>
-<p>A user encountered an error when downloading a completed I-485:</p>
-<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/18/noname.png" alt="" width="1134" height="88" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/18/responsive/noname-xs.png 640w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-sm.png 768w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-md.png 1024w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-lg.png 1366w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-xl.png 1600w ,https://changelog.fillvisa.com/media/posts/18/responsive/noname-2xl.png 1920w"></figure>
-<p class="msg msg--info">"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname"</p>
-<p> </p>
-<p>The <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">eoir_number</code> field in the underlying PDF spec had a <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">maxLength</code> of 9 - too short for many real Receipt Number of Underlying Petition. When the generated PDF tried to write a longer value into that field, it threw an error and blocked the download.</p>
-<p> </p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold">What was fixed</h3>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Updated the PDF field spec for <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">eoir_number</code> on Form I-485 to correctly reflect the actual allowed length. Downloads now complete without error regardless of name length.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fixed: Form I-485 - PDF Field Length Error</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/"/>
-        <id>https://changelog.fillvisa.com/fixed-form-i-485-pdf-field-length-error/</id>
-            <category term="Fixed"/>
-
-        <updated>2026-04-22T01:40:27-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    What happened A user encountered an error when downloading a completed I-485: "I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname" The principal_firstname field in the underlying PDF spec&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>What happened</h2>
-<p>A user encountered an error when downloading a completed I-485:</p>
-<figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/17/error_485-2.PNG" alt="" width="1221" height="130" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/17/responsive/error_485-2-2xl.PNG 1920w"></figure>
-<p class="msg msg--info">"I was trying to download my form when I received this error message: Attempted to set text with length=13 for TextField with maxLength=9 and name=principal_firstname"</p>
-<p> </p>
-<p>The <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">principal_firstname</code> field in the underlying PDF spec had a <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">maxLength</code> of 9 - too short for many real first names. When the generated PDF tried to write a longer value into that field, it threw an error and blocked the download.</p>
-<p> </p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold">What was fixed</h3>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Updated the PDF field spec for <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">principal_firstname</code> on Form I-485 to correctly reflect the actual allowed length. Downloads now complete without error regardless of name length.</p>
             ]]>
         </content>
     </entry>

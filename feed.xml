@@ -3,12 +3,33 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-07-09T13:23:14-05:00</updated>
+    <updated>2026-07-22T12:07:52-05:00</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fixed: Broken Form link in the legal and portal form views.</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/"/>
+        <id>https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-07-22T12:06:30-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Fixed a broken <strong>Start Form</strong> link in <a href="https://app.fillvisa.com/">Fillvisa Plus App</a>. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent <code>forms/start/{id}</code> route</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I-765 is live 🎉</title>
         <author>
@@ -251,27 +272,6 @@
                 <p>Received an error:</p>
 <figure class="post__image"><img loading="lazy"  src="https://changelog.fillvisa.com/media/posts/22//error_485_2.PNG" alt="" width="406" height="182" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-xs.PNG 640w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-sm.PNG 768w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-md.PNG 1024w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-lg.PNG 1366w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-xl.PNG 1600w ,https://changelog.fillvisa.com/media/posts/22//responsive/error_485_2-2xl.PNG 1920w"></figure>
 <p>The <code class="bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]">Current Spouse &gt; Country of Birth</code> field was rejecting inputs longer than 9 characters - cutting off countries like "Bangladesh" or "El Salvador." The field limit has been corrected. All country names now save and download properly.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fix: I-485 Interpreter Last Name Field</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/"/>
-        <id>https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/</id>
-            <category term="Fixed"/>
-
-        <updated>2026-05-22T14:23:27-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.</p>
             ]]>
         </content>
     </entry>

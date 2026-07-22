@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/",
+            "url": "https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/",
+            "title": "Fixed: Broken Form link in the legal and portal form views.",
+            "summary": "Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route",
+            "content_html": "<p>Fixed a broken <strong>Start Form</strong> link in <a href=\"https://app.fillvisa.com/\">Fillvisa Plus App</a>. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent <code>forms/start/{id}</code> route</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-07-22T12:06:30-05:00",
+            "date_modified": "2026-07-22T12:07:52-05:00"
+        },
+        {
             "id": "https://changelog.fillvisa.com/i-765-is-live/",
             "url": "https://changelog.fillvisa.com/i-765-is-live/",
             "title": "I-765 is live 🎉",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2026-06-02T20:47:39-05:00",
             "date_modified": "2026-06-02T20:48:44-05:00"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
-            "url": "https://changelog.fillvisa.com/fix-i-485-interpreter-last-name-field/",
-            "title": "Fix: I-485 Interpreter Last Name Field",
-            "summary": "The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.",
-            "content_html": "<p>The Interpreter's last name field is now optional. Users without an interpreter no longer need to enter a placeholder value to download the form.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Fixed"
-            ],
-            "date_published": "2026-05-22T14:23:27-05:00",
-            "date_modified": "2026-05-22T14:23:40-05:00"
         }
     ]
 }

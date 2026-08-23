@@ -22,8 +22,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-07-22T12:06:30-05:00",
-            "date_modified": "2026-07-22T12:07:52-05:00"
+            "date_published": "2026-07-22T22:36:30+05:30",
+            "date_modified": "2026-07-22T22:37:52+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/i-765-is-live/",
@@ -37,8 +37,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-09T13:20:32-05:00",
-            "date_modified": "2026-07-09T13:23:14-05:00"
+            "date_published": "2026-07-09T23:50:32+05:30",
+            "date_modified": "2026-07-09T23:53:14+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/pdf-preview-before-download/",
@@ -51,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2026-07-08T12:16:05-05:00",
-            "date_modified": "2026-07-08T12:16:16-05:00"
+            "date_published": "2026-07-08T22:46:05+05:30",
+            "date_modified": "2026-07-08T22:46:16+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/i-907-is-live/",
@@ -66,8 +66,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-08T12:12:40-05:00",
-            "date_modified": "2026-07-08T12:13:22-05:00"
+            "date_published": "2026-07-08T22:42:40+05:30",
+            "date_modified": "2026-07-08T22:43:22+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/g-1650-is-live/",
@@ -81,8 +81,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-08T12:10:37-05:00",
-            "date_modified": "2026-07-08T12:11:50-05:00"
+            "date_published": "2026-07-08T22:40:37+05:30",
+            "date_modified": "2026-07-08T22:41:50+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/g-1450-is-live/",
@@ -96,8 +96,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-06T14:32:40-05:00",
-            "date_modified": "2026-07-06T14:32:47-05:00"
+            "date_published": "2026-07-07T01:02:40+05:30",
+            "date_modified": "2026-07-07T01:02:47+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/g-28-is-live/",
@@ -111,8 +111,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-06T14:31:27-05:00",
-            "date_modified": "2026-07-06T14:32:01-05:00"
+            "date_published": "2026-07-07T01:01:27+05:30",
+            "date_modified": "2026-07-07T01:02:01+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/i-140-is-live/",
@@ -126,8 +126,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-06T14:29:30-05:00",
-            "date_modified": "2026-07-06T14:31:57-05:00"
+            "date_published": "2026-07-07T00:59:30+05:30",
+            "date_modified": "2026-07-07T01:01:57+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/i-130-is-now-live/",
@@ -141,8 +141,8 @@
             "tags": [
                    "Added"
             ],
-            "date_published": "2026-07-06T14:26:05-05:00",
-            "date_modified": "2026-07-06T14:26:05-05:00"
+            "date_published": "2026-07-07T00:56:05+05:30",
+            "date_modified": "2026-07-07T00:56:05+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/",
@@ -156,8 +156,8 @@
             "tags": [
                    "Fixed"
             ],
-            "date_published": "2026-06-02T20:47:39-05:00",
-            "date_modified": "2026-06-02T20:48:44-05:00"
+            "date_published": "2026-06-03T07:17:39+05:30",
+            "date_modified": "2026-06-03T07:18:44+05:30"
         }
     ]
 }

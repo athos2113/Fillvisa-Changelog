@@ -3,7 +3,7 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-07-22T12:07:52-05:00</updated>
+    <updated>2026-07-22T22:37:52+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/</id>
             <category term="Fixed"/>
 
-        <updated>2026-07-22T12:06:30-05:00</updated>
+        <updated>2026-07-22T22:36:30+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route
@@ -39,7 +39,7 @@
         <id>https://changelog.fillvisa.com/i-765-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-09T13:20:32-05:00</updated>
+        <updated>2026-07-09T23:50:32+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Application for Employment Authorization - now available on Fillvisa What's new Fill I-765 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they&hellip;
@@ -64,7 +64,7 @@
         <link href="https://changelog.fillvisa.com/pdf-preview-before-download/"/>
         <id>https://changelog.fillvisa.com/pdf-preview-before-download/</id>
 
-        <updated>2026-07-08T12:16:05-05:00</updated>
+        <updated>2026-07-08T22:46:05+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device. What's new The download page now embeds a live preview of your completed form, so you can review formatting, check&hellip;
@@ -92,7 +92,7 @@
         <id>https://changelog.fillvisa.com/i-907-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-08T12:12:40-05:00</updated>
+        <updated>2026-07-08T22:42:40+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Request for Premium Processing Service - now available on Fillvisa Plus. What's new Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition. Why Plus I-907 is filed by a professional on&hellip;
@@ -120,7 +120,7 @@
         <id>https://changelog.fillvisa.com/g-1650-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-08T12:10:37-05:00</updated>
+        <updated>2026-07-08T22:40:37+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Authorization for Electronic Signature - now available on Fillvisa Plus. What's new Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports. Why Plus G-1650 accompanies forms filed by a professional&hellip;
@@ -148,7 +148,7 @@
         <id>https://changelog.fillvisa.com/g-1450-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T14:32:40-05:00</updated>
+        <updated>2026-07-07T01:02:40+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Authorization for Credit Card Transactions - now available on Fillvisa Plus. What's new Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together. Why Plus G-1450 is a payment authorization tied to a&hellip;
@@ -176,7 +176,7 @@
         <id>https://changelog.fillvisa.com/g-28-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T14:31:27-05:00</updated>
+        <updated>2026-07-07T01:01:27+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Notice of Entry of Appearance as Attorney or Accredited Representative - now available on Fillvisa Plus. What's new Fill G-28 and attach it directly to a case in Plus, so your appearance is on file right alongside the petition it supports. Why Plus There's no&hellip;
@@ -204,7 +204,7 @@
         <id>https://changelog.fillvisa.com/i-140-is-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T14:29:30-05:00</updated>
+        <updated>2026-07-07T00:59:30+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     The Immigrant Petition for Alien Worker is now available on Fillvisa Plus. Attorneys and PERM specialists can now fill, manage, and generate I-140 petitions directly in Plus - alongside the rest of the PERM workflow (ETA-9089, ETA-9141, G-28). I-140 is filed by an employer or&hellip;
@@ -232,7 +232,7 @@
         <id>https://changelog.fillvisa.com/i-130-is-now-live/</id>
             <category term="Added"/>
 
-        <updated>2026-07-06T14:26:05-05:00</updated>
+        <updated>2026-07-07T00:56:05+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     The I-130, Petition for Alien Relative, is now available on Fillvisa - and it's live on Fillvisa Free. If you're a U.S. citizen or lawful permanent resident petitioning for a spouse, parent, child, or sibling, you can now fill out the I-130 directly in your&hellip;
@@ -261,7 +261,7 @@
         <id>https://changelog.fillvisa.com/fix-i-485-country-of-birth-field-now-accepts-full-country-names/</id>
             <category term="Fixed"/>
 
-        <updated>2026-06-02T20:47:39-05:00</updated>
+        <updated>2026-06-03T07:17:39+05:30</updated>
             <summary type="html">
                 <![CDATA[
                     Received an error: The Current Spouse &gt; Country of Birth field was rejecting inputs longer than 9 characters - cutting off countries like "Bangladesh" or "El Salvador." The field limit has been corrected. All country names now save and download properly.

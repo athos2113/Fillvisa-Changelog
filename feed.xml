@@ -3,12 +3,49 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-08-23T23:38:58+05:30</updated>
+    <updated>2026-08-29T14:28:22+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fix: I-485 and I-130 validation issues resolved</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fix-i-485-and-i-130-validation-issues-resolved/"/>
+        <id>https://changelog.fillvisa.com/fix-i-485-and-i-130-validation-issues-resolved/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-08-29T13:59:55+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Received user reports about two form issues affecting Form I-485 and Form I-130. On Form I-485, users were being forced to enter additional dates of birth and A-Numbers even when they only had one date of birth and no A-Number. On Form I-130, users could&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Received user reports about two form issues affecting<a href="https://fillvisa.com/form/i-485/"> Form I-485</a> and <a href="https://fillvisa.com/form/i-130/">Form I-130</a>.</p>
+<h2>Problem</h2>
+<p>On Form I-485, users were being forced to enter additional dates of birth and A-Numbers even when they only had one date of birth and no A-Number.</p>
+<p>On Form I-130, users could not enter the “Date From” for their current physical address when their mailing address was the same as their physical address.</p>
+<h2>Effect</h2>
+<p>For I-485, this blocked users from completing the form accurately. Applicants without another date of birth or A-Number had no valid way to proceed without entering unnecessary placeholder information.</p>
+<p>For I-130, users could not provide the required start date for their current address in some address scenarios. This also meant the date could be missed when generating the completed PDF.</p>
+<h2>Solution</h2>
+<p>We updated the I-485 validation so optional second date of birth and second A-Number fields are no longer required when left blank. We also corrected the main A-Number validation so it only applies to the actual A-Number field when the user selects “Yes.”</p>
+<p>We updated the I-130 address flow so the current physical address “Date From” field remains available after the user answers whether their mailing address is the same as their physical address. The generated PDF now also includes this date correctly.</p>
+<h2>Conclusion</h2>
+<p>Users can now complete both forms more naturally:</p>
+<ul>
+<li>I-485 no longer asks for extra DOB or A-Number details when they do not apply.</li>
+<li>I-130 now allows users to enter the current address start date even when mailing and physical addresses are the same.</li>
+<li>The saved form data and downl</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fillvisa OS v1.0.0: Going Open Source, Self-host, and more</title>
         <author>
@@ -307,35 +344,6 @@
 <h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="13:1-13:16;528-543">What's next</h3>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="15:1-15:93;545-637">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="17:1-17:126;639-764">Questions or a form you'd like to see prioritized? Reach out - we're building this based on what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>I-130 is now live 🎉</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/i-130-is-now-live/"/>
-        <id>https://changelog.fillvisa.com/i-130-is-now-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-07-07T00:56:05+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    The I-130, Petition for Alien Relative, is now available on Fillvisa - and it's live on Fillvisa Free. If you're a U.S. citizen or lawful permanent resident petitioning for a spouse, parent, child, or sibling, you can now fill out the I-130 directly in your&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal">The <strong><a href="https://fillvisa.com/form/i-130/">I-130, Petition for Alien Relative</a></strong>, is now available on Fillvisa - and it's live on <strong>Fillvisa Free</strong>.</p>
-<p class="font-claude-response-body break-words whitespace-normal">If you're a U.S. citizen or lawful permanent resident petitioning for a spouse, parent, child, or sibling, you can now fill out the I-130 directly in your browser - no account, no server uploads, nothing ever leaves your device.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What you can do:</strong></p>
-<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Fill out the I-130 form field-by-field with guided help</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Generate an official, submission-ready PDF</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2">Keep everything private - Fillvisa Free never touches a server</li>
-</ul>
-<p class="font-claude-response-body break-words whitespace-normal">Petitioners self-filing for a family member are exactly who this tool is built for. Give it a try at <a href="https://fillvisa.com/form/i-130/">fillvisa.com</a></p>
             ]]>
         </content>
     </entry>

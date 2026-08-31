@@ -3,12 +3,48 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-08-29T14:28:22+05:30</updated>
+    <updated>2026-08-31T12:44:06+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fix: Form I-485 Family-Based Flow Validation and Question Wording Improvements</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/"/>
+        <id>https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-08-31T12:44:03+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    We shipped a set of fixes to the Form I-485 family-based flow after users reported a few confusing validation and wording issues while completing the form. Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We shipped a set of fixes to the<a href="https://fillvisa.com/form/i-485/"> Form I-485</a> family-based flow after users reported a few confusing validation and wording issues while completing the form.</p>
+<h2><strong>What Happened</strong></h2>
+<p>Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring passport or travel document details such as passport number, expiration date, and country of issuance, even when the applicant did not need to provide them.</p>
+<p>Another issue appeared in <a href="https://fillvisa.com/form/i-485/additional-info">Part 4: Additional Info</a>. The employment and education section had two similar fields: “Employer or School” and “Name of Employer, Company, or School.” Because both were required, users had to type into both fields before they could submit the section.</p>
+<p>We also found a wording issue in<a href="https://fillvisa.com/form/i-485/general-eligibility-9f"> Part 9F,</a> questions 78.a and 78.b. The online form showed 78.a as if it were only asking about unlawful presence after April 1, 1997. The official PDF question is broader: it first asks whether the applicant reentered or attempted to reenter the United States after certain events, then lists 78.a and 78.b as the specific conditions.</p>
+<h2><strong>Effect of the Problem</strong></h2>
+<p>These issues could make users answer differently online than they would on the official USCIS PDF.</p>
+<p>For applicants whose passport, travel document, or visa details did not apply, the form could feel impossible to complete because it asked for information they did not have.</p>
+<p>For Part 4, users were forced to duplicate employment or school information just to pass validation.</p>
+<p>For Part 9F, the missing parent question changed the meaning of 78.a and 78.b. A user might answer “Yes” based only on unlawful presence, even though the actual form is asking about reentry or attempted reentry after unlawful presence or removal.</p>
+<h2><strong>What Was Fixed</strong></h2>
+<p>Passport and travel document fields in Form I-485 are now optional when they do not apply. Related nonimmigrant visa fields were also reviewed so they do not block submission when left blank for non-applicable cases.</p>
+<p>In Part 4, the “Employer or School” helper field is no longer required. The actual “Name of Employer, Company, or School” field remains required, so users still provide the core employment or education information without being forced to duplicate it.</p>
+<p>In Part 9F, questions 78.a and 78.b were updated to match the official PDF structure more closely. The shared parent question now appears above both items, and 78.a includes the explanatory unlawful-presence text from the official form.</p>
+<h2><strong>Conclusion</strong></h2>
+<p>These updates make Form I-485 clearer, less repetitive, and closer to the official USCIS form language. Users should now be able to complete the family-based I-485 flow without being blocked by non-applicable passport or travel document fields, duplicate employer/school fields, or confusing wording in Part 9F.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fix: I-485 and I-130 validation issues resolved</title>
         <author>
@@ -316,34 +352,6 @@
 <p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
 <p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>
 <p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>I-140 is live 🎉</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/i-140-is-live/"/>
-        <id>https://changelog.fillvisa.com/i-140-is-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-07-07T00:59:30+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    The Immigrant Petition for Alien Worker is now available on Fillvisa Plus. Attorneys and PERM specialists can now fill, manage, and generate I-140 petitions directly in Plus - alongside the rest of the PERM workflow (ETA-9089, ETA-9141, G-28). I-140 is filed by an employer or&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="3:1-3:105;18-122">The Immigrant Petition for Alien Worker is now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="5:1-5:15;124-138">What's new</h3>
-<p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="7:1-7:169;140-308">Attorneys and PERM specialists can now fill, manage, and generate I-140 petitions directly in Plus - alongside the rest of the PERM workflow (ETA-9089, ETA-9141, G-28).</p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="9:1-9:13;310-322">Why Plus</h3>
-<p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="11:1-11:203;324-526">I-140 is filed by an employer or their representative on behalf of a beneficiary, not self-filed - so it lives where the case management and firm-level tooling already are, rather than on Fillvisa Free.</p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="13:1-13:16;528-543">What's next</h3>
-<p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="15:1-15:93;545-637">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>
-<p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="17:1-17:126;639-764">Questions or a form you'd like to see prioritized? Reach out - we're building this based on what practitioners actually need.</p>
             ]]>
         </content>
     </entry>

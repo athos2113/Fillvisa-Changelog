@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/form-i-539-is-live/",
+            "url": "https://changelog.fillvisa.com/form-i-539-is-live/",
+            "title": "Form I-539 is Live",
+            "summary": "Form I-539: Application to Extend/Change Nonimmigrant Status - now available on Fillvisa What's new Fill I-539 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates&hellip;",
+            "content_html": "<p class=\"mb-0 display-4\"><a href=\"https://fillvisa.com/form/i-539/\">Form I-539: Application to Extend/Change Nonimmigrant Status</a> - now available on Fillvisa</p>\n<p><strong>What's new</strong><br><br>Fill I-539 for free, right in your browser - no account, nothing ever leaves your device.<br><br><strong>What's next</strong><br><br>More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.<br><br>Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-09-19T14:56:30+05:30",
+            "date_modified": "2026-09-19T14:57:11+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/",
             "url": "https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/",
             "title": "Fix: Form I-485 Family-Based Flow Validation and Question Wording Improvements",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2026-07-07T01:02:40+05:30",
             "date_modified": "2026-07-07T01:02:47+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/g-28-is-live/",
-            "url": "https://changelog.fillvisa.com/g-28-is-live/",
-            "title": "G-28 is live 🎉",
-            "summary": "Notice of Entry of Appearance as Attorney or Accredited Representative - now available on Fillvisa Plus. What's new Fill G-28 and attach it directly to a case in Plus, so your appearance is on file right alongside the petition it supports. Why Plus There's no&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Notice of Entry of Appearance as Attorney or Accredited Representative - now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill G-28 and attach it directly to a case in Plus, so your appearance is on file right alongside the petition it supports.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why Plus</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">There's no self-filed version of a G-28 - it only exists when someone is representing a client before USCIS. That puts it squarely in Plus, next to the rest of your case and client management.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-07-07T01:01:27+05:30",
-            "date_modified": "2026-07-07T01:02:01+05:30"
         }
     ]
 }

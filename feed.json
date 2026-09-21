@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fillvisa-os-v140/",
+            "url": "https://changelog.fillvisa.com/fillvisa-os-v140/",
+            "title": "Fillvisa OS v1.4.0",
+            "summary": "We’ve released Fillvisa OS v1.4.0, with updated USCIS forms, a new form in the library, and validation improvements. Added Form I-539 - Application to Extend/Change Nonimmigrant Status Form I-539 is now available in the Fillvisa OS form library. Updated Form I-485 - Application to Register&hellip;",
+            "content_html": "<p>We’ve released <strong><a href=\"https://github.com/athos2113/fillvisa-os/releases/tag/v1.4.0\">Fillvisa OS v1.4.0</a></strong>, with updated USCIS forms, a new form in the library, and validation improvements.</p>\n<h3>What’s new</h3>\n<ul>\n<li>\n<p><strong>Added Form I-539 - Application to Extend/Change Nonimmigrant Status</strong><br>Form I-539 is now available in the Fillvisa OS form library.</p>\n</li>\n<li>\n<p><strong>Updated Form I-485 - Application to Register Permanent Residence or Adjust Status</strong><br>Form I-485 has been updated to the latest edition.</p>\n</li>\n<li>\n<p><strong>Updated Form I-864 - Affidavit of Support Under Section 213A of the INA</strong><br>Form I-864 has also been updated to its new edition.</p>\n</li>\n<li>\n<p><strong>Form I-485 validation fixes</strong><br>We fixed validation issues affecting several fields in Form I-485 to improve form completion and PDF generation.</p>\n</li>\n</ul>\n<p>As with previous releases, the forms remain available as browser-based web forms that map user-entered data to the official USCIS PDFs.</p>\n<p>Fillvisa OS is open source and available on GitHub under the AGPL-3.0 license.</p>\n<p><strong>Repository:</strong><br><a href=\"https://github.com/athos2113/fillvisa-os\">https://github.com/athos2113/fillvisa-os</a></p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Releases"
+            ],
+            "date_published": "2026-09-21T18:05:26+05:30",
+            "date_modified": "2026-09-21T18:05:33+05:30"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/form-i-485-updated-to-the-latest-edition/",
+            "url": "https://changelog.fillvisa.com/form-i-485-updated-to-the-latest-edition/",
+            "title": "Form I-485 updated to the latest edition",
+            "summary": "We’ve published the latest version of Form I-485, Application to Register Permanent Residence or Adjust Status, across Fillvisa. Form I-485 is used by eligible applicants in the United States to apply for lawful permanent resident status (a Green Card). The Fillvisa web form has been&hellip;",
+            "content_html": "<p>We’ve published the latest version of <strong><a href=\"https://fillvisa.com/form/i-485/\">Form I-485, Application to Register Permanent Residence or Adjust Status</a></strong>, across Fillvisa.</p>\n<p>Form I-485 is used by eligible applicants in the United States to apply for lawful permanent resident status (a Green Card). The Fillvisa web form has been updated to match the latest official USCIS form, including the current questions, fields, and PDF structure.</p>\n<p>As always, you can fill the form through a browser-friendly interface and generate the completed official USCIS PDF when you’re done.</p>\n<p><strong>Official resources:</strong></p>\n<ul>\n<li>\n<p><a href=\"https://www.uscis.gov/i-485\">USCIS Form I-485</a></p>\n</li>\n<li>\n<p><a href=\"https://www.uscis.gov/sites/default/files/document/forms/i-485.pdf\">Official Form I-485 PDF</a></p>\n</li>\n<li>\n<p><a href=\"https://www.uscis.gov/sites/default/files/document/forms/i-485instr.pdf\">Form I-485 Instructions</a></p>\n</li>\n</ul>\n<p>USCIS periodically revises its forms and filing requirements, so applicants should always verify the current edition and instructions on USCIS before filing.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Update"
+            ],
+            "date_published": "2026-09-21T18:01:57+05:30",
+            "date_modified": "2026-09-21T18:02:02+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/form-i-539-is-live/",
             "url": "https://changelog.fillvisa.com/form-i-539-is-live/",
             "title": "Form I-539 is Live",
@@ -127,36 +157,6 @@
             ],
             "date_published": "2026-07-08T22:42:40+05:30",
             "date_modified": "2026-07-08T22:43:22+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/g-1650-is-live/",
-            "url": "https://changelog.fillvisa.com/g-1650-is-live/",
-            "title": "G-1650 is live 🎉",
-            "summary": "Authorization for Electronic Signature - now available on Fillvisa Plus. What's new Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports. Why Plus G-1650 accompanies forms filed by a professional&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Authorization for Electronic Signature - now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why Plus</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">G-1650 accompanies forms filed by a professional on a client's behalf, not a self-filed submission - so it belongs in Plus alongside the rest of the case's paperwork.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this <a href=\"https://changelog.fillvisa.com/\">changelog </a>for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-07-08T22:40:37+05:30",
-            "date_modified": "2026-07-08T22:41:50+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/g-1450-is-live/",
-            "url": "https://changelog.fillvisa.com/g-1450-is-live/",
-            "title": "G-1450 is live 🎉",
-            "summary": "Authorization for Credit Card Transactions - now available on Fillvisa Plus. What's new Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together. Why Plus G-1450 is a payment authorization tied to a&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Authorization for Credit Card Transactions - now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why Plus</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">G-1450 is a payment authorization tied to a professional's filing on a client's behalf, not something a self-filer typically submits alone - so it belongs in Plus alongside the rest of the case's paperwork.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-07-07T01:02:40+05:30",
-            "date_modified": "2026-07-07T01:02:47+05:30"
         }
     ]
 }

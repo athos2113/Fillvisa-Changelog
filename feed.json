@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/form-i-129f-now-live/",
+            "url": "https://changelog.fillvisa.com/form-i-129f-now-live/",
+            "title": "Form I-129F Now Live 🎉",
+            "summary": "We're excited to announce that Form I-129F, Petition for Alien Fiancé(e), is now available on Fillvisa Free and Fillvisa OS! Form I-129F is used by U.S. citizens to petition for their foreign national fiancé(e) to enter the United States for marriage under the K-1 visa classification.",
+            "content_html": "<p>We're excited to announce that <strong><a href=\"https://fillvisa.com/form/i-129f/\">Form I-129F, Petition for Alien Fiancé(e)</a></strong>, is now available on Fillvisa Free and Fillvisa OS!</p>\n<p>Form I-129F is used by U.S. citizens to petition for their foreign national fiancé(e) to enter the United States for marriage under the K-1 visa classification. It can also be used in certain circumstances to petition for a spouse under the K-3 visa classification.</p>\n<h3>What's New?</h3>\n<p><strong>🟢 Fillvisa Free</strong></p>\n<ul>\n<li>\n<p>Fill out Form I-129F online, completely free.</p>\n</li>\n<li>\n<p>Save your progress and complete the form at your own pace.</p>\n</li>\n<li>\n<p>Download your completed form as a PDF.</p>\n</li>\n<li>\n<p>No account required, no subscriptions, and no paywalls.</p>\n</li>\n</ul>\n<p><strong>🟢 Fillvisa OS (Open Source)</strong></p>\n<ul>\n<li>\n<p>Form I-129F is now included in our open-source project.</p>\n</li>\n<li>\n<p>Self-host, customize, and use it under the AGPL-3.0 license.</p>\n</li>\n<li>\n<p>Available on <a href=\"https://github.com/athos2113/fillvisa-os\">GitHub</a>.</p>\n</li>\n</ul>\n<p><strong>🔵 Fillvisa Plus - For Immigration Professionals</strong></p>\n<ul>\n<li>\n<p>Prepare Form I-129F within your firm's dedicated workspace.</p>\n</li>\n<li>\n<p>Collaborate with staff and clients.</p>\n</li>\n<li>\n<p>Manage petitions, documents, and client information in one place.</p>\n</li>\n</ul>\n<h3>Making Family-Based Immigration Forms More Accessible</h3>\n<p>With the addition of Form I-129F, we're continuing to expand our library of free and open-source immigration forms, helping couples and families navigate the immigration process with accessible, easy-to-use tools.</p>\n<p>Whether you're petitioning for your fiancé(e) or preparing applications on behalf of clients, Fillvisa makes it easier to complete immigration forms without expensive software or unnecessary complexity.</p>\n<p><strong>Every supported form on Fillvisa is free to use.</strong> Fillvisa Plus provides additional workspace and collaboration features for immigration professionals and teams.</p>\n<p><strong>Get started:</strong> <a href=\"https://fillvisa.com/\">Fillvisa Free</a> · <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS</a> · <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a></p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-10-12T08:03:05+05:30",
+            "date_modified": "2026-10-12T08:03:12+05:30"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/form-i-130a-is-now-live-on-fillvisa/",
+            "url": "https://changelog.fillvisa.com/form-i-130a-is-now-live-on-fillvisa/",
+            "title": "Form I-130A is Now Live on Fillvisa 🎉",
+            "summary": "We're excited to announce that Form I-130A, Supplemental Information for Spouse Beneficiary, is now available on Fillvisa Free and Fillvisa OS! Form I-130A is used to provide additional biographical information about a spouse who is the beneficiary of Form I-130 (Petition for Alien Relative). It is&hellip;",
+            "content_html": "<p>We're excited to announce that <strong><a href=\"https://fillvisa.com/form/i-130a/\">Form I-130A, Supplemental Information for Spouse Beneficiary</a></strong>, is now available on <a href=\"https://fillvisa.com/form/i-130a/\">Fillvisa Free</a> and<a href=\"https://github.com/athos2113/fillvisa-os\"> Fillvisa OS</a>!</p>\n<p>Form I-130A is used to provide additional biographical information about a spouse who is the beneficiary of Form I-130 (Petition for Alien Relative). It is generally required when a U.S. citizen or lawful permanent resident petitions for their spouse.</p>\n<h3>What's New?</h3>\n<p><strong>🟢 Fillvisa Free</strong></p>\n<ul>\n<li>\n<p>Fill out Form I-130A online, completely free.</p>\n</li>\n<li>\n<p>Save your progress and complete the form at your own pace.</p>\n</li>\n<li>\n<p>Download your completed form as a PDF.</p>\n</li>\n<li>\n<p>No account required, no subscriptions, and no paywalls.</p>\n</li>\n</ul>\n<p><strong>🟢 Fillvisa OS (Open Source)</strong></p>\n<ul>\n<li>\n<p>Form I-130A is now included in our open-source project.</p>\n</li>\n<li>\n<p>Self-host, customize, and use it under the AGPL-3.0 license.</p>\n</li>\n<li>\n<p>Available on <a href=\"https://github.com/athos2113/fillvisa-os\">GitHub</a>.</p>\n</li>\n</ul>\n<p><strong>🔵 Fillvisa Plus - For Immigration Professionals</strong></p>\n<ul>\n<li>\n<p>Prepare Form I-130A within your firm's dedicated workspace.</p>\n</li>\n<li>\n<p>Collaborate with staff and clients.</p>\n</li>\n<li>\n<p>Reuse client immigration profiles to populate forms.</p>\n</li>\n<li>\n<p>Manage family-based petitions, documents, and client information in one place.</p>\n</li>\n</ul>\n<h3>Making Family-Based Immigration Forms More Accessible</h3>\n<p>With the addition of Form I-130A, we're continuing to expand our library of free and open-source immigration forms, making it easier for families to prepare immigration paperwork.</p>\n<p><strong>Every supported form on Fillvisa is free to use.</strong> Fillvisa Plus provides additional workspace and collaboration features for immigration professionals and teams.</p>\n<p><strong>Get started:</strong> <a href=\"https://fillvisa.com/\">Fillvisa Free</a> · <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS</a> · <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a></p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-10-08T14:27:53+05:30",
+            "date_modified": "2026-10-08T14:30:25+05:30"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/form-i-129-now-live/",
+            "url": "https://changelog.fillvisa.com/form-i-129-now-live/",
+            "title": "Form I-129 Now Live 🎉",
+            "summary": "We're excited to announce that Form I-129, Petition for a Nonimmigrant Worker, is now available on Fillvisa Free and Fillvisa OS! Form I-129 is used by U.S. employers to petition for foreign nationals to temporarily work in the United States under various nonimmigrant visa classifications, including&hellip;",
+            "content_html": "<p>We're excited to announce that <strong><a href=\"https://fillvisa.com/form/i-129/\">Form I-129, Petition for a Nonimmigrant Worker</a></strong>, is now available on Fillvisa Free and Fillvisa OS!</p>\n<p>Form I-129 is used by U.S. employers to petition for foreign nationals to temporarily work in the United States under various nonimmigrant visa classifications, including H-1B, L-1, O-1, and others.</p>\n<h3>What's New?</h3>\n<p><strong>🟢 Fillvisa Free</strong></p>\n<ul>\n<li>\n<p>Fill out Form I-129 online, completely free.</p>\n</li>\n<li>\n<p>Save your progress and complete the form at your own pace.</p>\n</li>\n<li>\n<p>Download your completed form as a PDF.</p>\n</li>\n<li>\n<p>No account required, no subscriptions, and no paywalls.</p>\n</li>\n</ul>\n<p><strong>🟢 Fillvisa OS (Open Source)</strong></p>\n<ul>\n<li>\n<p>Form I-129 is now included in our open-source project.</p>\n</li>\n<li>\n<p>Self-host, customize, and use it under the AGPL-3.0 license.</p>\n</li>\n<li>\n<p>Available on <a href=\"https://github.com/athos2113/fillvisa-os\">GitHub</a>.</p>\n</li>\n</ul>\n<p><strong>🔵 Fillvisa Plus - For Immigration Professionals</strong></p>\n<ul>\n<li>\n<p>Prepare Form I-129 within your firm's dedicated workspace.</p>\n</li>\n<li>\n<p>Collaborate with staff and clients.</p>\n</li>\n<li>\n<p>Manage petitions, documents, and client information in one place.</p>\n</li>\n</ul>\n<h3>Making Immigration Forms More Accessible</h3>\n<p>With the addition of Form I-129, we're continuing to expand our library of free and open-source immigration forms, including employment-based petitions.</p>\n<p><strong>Every supported form on Fillvisa is free to use.</strong> Fillvisa Plus provides additional workspace and collaboration features for immigration professionals and teams.</p>\n<p><strong>Get started:</strong> <a href=\"https://fillvisa.com/\">Fillvisa Free</a> · <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS</a> · <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a></p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-10-08T12:06:05+05:30",
+            "date_modified": "2026-10-08T12:06:58+05:30"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/all-immigration-forms-are-now-free-and-open-source/",
+            "url": "https://changelog.fillvisa.com/all-immigration-forms-are-now-free-and-open-source/",
+            "title": "All Immigration Forms Are Now Free &amp; Open Source 🎉",
+            "summary": "We've unlocked all immigration forms on Fillvisa Free and Fillvisa OS, including previously restricted employment-based forms. Previously, certain immigration forms were exclusively available through Fillvisa Plus. We've now removed those restrictions, making every supported form accessible to everyone, completely free. 🟢 Fillvisa Free All supported&hellip;",
+            "content_html": "<p><strong>We've unlocked all immigration forms on <a href=\"https://fillvisa.com/\">Fillvisa Free</a> and <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS</a>, including previously restricted employment-based forms.</strong></p>\n<p>Previously, certain immigration forms were exclusively available through Fillvisa Plus. We've now removed those restrictions, making every supported form accessible to everyone, completely free.</p>\n<h3>What's Changed?</h3>\n<p><strong>🟢 <a href=\"https://fillvisa.com/\">Fillvisa Free</a></strong></p>\n<ul>\n<li>\n<p>All supported immigration forms are now free, including employment-based forms.</p>\n</li>\n<li>\n<p>Fill out and download completed forms without a subscription.</p>\n</li>\n<li>\n<p>No account required, no paywalls.</p>\n</li>\n</ul>\n<p><strong>🟢 <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS (Open Source)</a></strong></p>\n<ul>\n<li>\n<p>All supported forms are now included in our open-source project.</p>\n</li>\n<li>\n<p>Self-host, customize, and build on Fillvisa under the AGPL-3.0 license.</p>\n</li>\n<li>\n<p>Available on <a href=\"https://github.com/athos2113/fillvisa-os\">GitHub</a>.</p>\n</li>\n</ul>\n<p><strong>🔵 <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus - Now Focused on Teams</a></strong></p>\n<p>Fillvisa Plus is evolving into a dedicated, white-label workspace for immigration professionals, law firms, and agencies.</p>\n<p>Instead of charging for access to forms, Plus now focuses on professional workflows, including:</p>\n<ul>\n<li>\n<p>Dedicated team workspaces</p>\n</li>\n<li>\n<p>White-label client portals and custom domains</p>\n</li>\n<li>\n<p>Team and client collaboration</p>\n</li>\n<li>\n<p>Reusable client immigration profiles and cross-form autofill</p>\n</li>\n<li>\n<p>Document management and e-signatures</p>\n</li>\n</ul>\n<h3>Why This Change?</h3>\n<p>We believe access to immigration form-filling tools should be free and open.</p>\n<p>Going forward, our model is simple:</p>\n<p><strong>Free &amp; Open Source = All forms, free for everyone.</strong></p>\n<p><strong>Plus = Professional tools for teams and immigration firms.</strong></p>\n<p>We'll continue improving our free and open-source offerings while building better collaboration and workflow tools for immigration professionals.</p>\n<p><strong>Get started:</strong> <a href=\"https://fillvisa.com/\">Fillvisa Free</a> · <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS</a> · <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a></p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Update"
+            ],
+            "date_published": "2026-10-08T11:51:32+05:30",
+            "date_modified": "2026-10-08T12:03:51+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fillvisa-os-v140/",
             "url": "https://changelog.fillvisa.com/fillvisa-os-v140/",
             "title": "Fillvisa OS v1.4.0",
@@ -98,65 +158,6 @@
             ],
             "date_published": "2026-08-23T23:38:58+05:30",
             "date_modified": "2026-08-23T23:38:58+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/",
-            "url": "https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/",
-            "title": "Fixed: Broken Form link in the legal and portal form views.",
-            "summary": "Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route",
-            "content_html": "<p>Fixed a broken <strong>Start Form</strong> link in <a href=\"https://app.fillvisa.com/\">Fillvisa Plus App</a>. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent <code>forms/start/{id}</code> route</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Fixed"
-            ],
-            "date_published": "2026-07-22T22:36:30+05:30",
-            "date_modified": "2026-07-22T22:37:52+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/i-765-is-live/",
-            "url": "https://changelog.fillvisa.com/i-765-is-live/",
-            "title": "I-765 is live 🎉",
-            "summary": "Application for Employment Authorization - now available on Fillvisa What's new Fill I-765 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Application for Employment Authorization - now available on <a href=\"https://fillvisa.com/form/i-765/\" class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\">Fillvisa</a></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill I-765 for free, right in your browser - no account, nothing ever leaves your device.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this <a href=\"https://changelog.fillvisa.com/\">changelog </a>for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-07-09T23:50:32+05:30",
-            "date_modified": "2026-07-09T23:53:14+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/pdf-preview-before-download/",
-            "url": "https://changelog.fillvisa.com/pdf-preview-before-download/",
-            "title": "🛠️ PDF preview before download",
-            "summary": "Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device. What's new The download page now embeds a live preview of your completed form, so you can review formatting, check&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">The download page now embeds a live preview of your completed form, so you can review formatting, check that every field looks right, and catch anything off before you download.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why it matters</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">No more downloading a form just to check it, then redoing it if something's wrong. Review first, download once you're confident it's correct.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More <a href=\"https://fillvisa.com/form\">forms </a>are on the way. Follow this <a href=\"changelog.fillvisa.com\">changelog </a>for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a feature you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-08T22:46:05+05:30",
-            "date_modified": "2026-07-08T22:46:16+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/i-907-is-live/",
-            "url": "https://changelog.fillvisa.com/i-907-is-live/",
-            "title": "I-907 is live 🎉",
-            "summary": "Request for Premium Processing Service - now available on Fillvisa Plus. What's new Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition. Why Plus I-907 is filed by a professional on&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Request for Premium Processing Service - now available on <a class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\" href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why Plus</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">I-907 is filed by a professional on a client's or employer's behalf to expedite an existing petition - not something a self-filer submits on its own - so it belongs in Plus alongside the rest of the case's paperwork.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this <a href=\"https://changelog.fillvisa.com/\">changelog </a>for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-07-08T22:42:40+05:30",
-            "date_modified": "2026-07-08T22:43:22+05:30"
         }
     ]
 }

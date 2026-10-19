@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fillvisa-os-v150/",
+            "url": "https://changelog.fillvisa.com/fillvisa-os-v150/",
+            "title": "Fillvisa OS v.1.5.0",
+            "summary": "Fillvisa OS v1.5.0 unlocks all supported immigration forms for everyone, adds four new forms, and improves conditional validation in Form I-485. Every supported immigration form is now available on Fillvisa Free and Fillvisa OS, including employment-based forms previously exclusive to Fillvisa Plus. Updated conditional validation&hellip;",
+            "content_html": "<p><a href=\"https://github.com/athos2113/fillvisa-os/releases/tag/v1.5.0\">Fillvisa OS v1.5.0</a> unlocks all supported immigration forms for everyone, adds four new forms, and improves conditional validation in Form I-485.</p>\n<h3>All forms are now free</h3>\n<p>Every supported immigration form is now available on<a href=\"https://fillvisa.com/\"> <strong>Fillvisa Free</strong></a><strong> and <a href=\"https://github.com/athos2113/fillvisa-os\">Fillvisa OS</a></strong>, including employment-based forms previously exclusive to <a href=\"https://plus.fillvisa.com/\">Fillvisa Plus</a>.</p>\n<h3>New forms</h3>\n<ul>\n<li><strong>I-129 — Petition for a Nonimmigrant Worker:</strong> Prepare employer petitions for temporary workers under classifications including H-1B, L-1, O-1, and others.</li>\n<li><strong>I-130A — Supplemental Information for Spouse Beneficiary:</strong> Provide additional biographical information for a spouse beneficiary of Form I-130.</li>\n<li><strong>I-129F — Petition for Alien Fiancé(e):</strong> Prepare petitions for a foreign national fiancé(e) under the K-1 classification, or a spouse under the K-3 classification in applicable circumstances.</li>\n<li><strong>I-912 — Request for Fee Waiver:</strong> Prepare fee waiver requests directly in your browser, with sections covering means-tested benefits, household income, and financial hardship.</li>\n</ul>\n<h3>Improved I-485 validation</h3>\n<p>Updated conditional validation throughout Form I-485 so questions that do not apply to you no longer block form completion or PDF download.</p>\n<h3>PDF output changes</h3>\n<p>Removed the hidden <code dir=\"ltr\">meta_formdata</code> field from generated PDFs. This field previously embedded form data as JSON for a planned import feature. Generated PDFs no longer include this embedded data.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Releases"
+            ],
+            "date_published": "2026-10-19T15:36:55+05:30",
+            "date_modified": "2026-10-19T15:38:42+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/form-i-912-now-live/",
             "url": "https://changelog.fillvisa.com/form-i-912-now-live/",
             "title": "Form I-912 Now Live 🎉",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2026-09-19T14:56:30+05:30",
             "date_modified": "2026-09-19T14:57:11+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/",
-            "url": "https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/",
-            "title": "Fix: Form I-485 Family-Based Flow Validation and Question Wording Improvements",
-            "summary": "We shipped a set of fixes to the Form I-485 family-based flow after users reported a few confusing validation and wording issues while completing the form. Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring&hellip;",
-            "content_html": "<p>We shipped a set of fixes to the<a href=\"https://fillvisa.com/form/i-485/\"> Form I-485</a> family-based flow after users reported a few confusing validation and wording issues while completing the form.</p>\n<h2><strong>What Happened</strong></h2>\n<p>Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring passport or travel document details such as passport number, expiration date, and country of issuance, even when the applicant did not need to provide them.</p>\n<p>Another issue appeared in <a href=\"https://fillvisa.com/form/i-485/additional-info\">Part 4: Additional Info</a>. The employment and education section had two similar fields: “Employer or School” and “Name of Employer, Company, or School.” Because both were required, users had to type into both fields before they could submit the section.</p>\n<p>We also found a wording issue in<a href=\"https://fillvisa.com/form/i-485/general-eligibility-9f\"> Part 9F,</a> questions 78.a and 78.b. The online form showed 78.a as if it were only asking about unlawful presence after April 1, 1997. The official PDF question is broader: it first asks whether the applicant reentered or attempted to reenter the United States after certain events, then lists 78.a and 78.b as the specific conditions.</p>\n<h2><strong>Effect of the Problem</strong></h2>\n<p>These issues could make users answer differently online than they would on the official USCIS PDF.</p>\n<p>For applicants whose passport, travel document, or visa details did not apply, the form could feel impossible to complete because it asked for information they did not have.</p>\n<p>For Part 4, users were forced to duplicate employment or school information just to pass validation.</p>\n<p>For Part 9F, the missing parent question changed the meaning of 78.a and 78.b. A user might answer “Yes” based only on unlawful presence, even though the actual form is asking about reentry or attempted reentry after unlawful presence or removal.</p>\n<h2><strong>What Was Fixed</strong></h2>\n<p>Passport and travel document fields in Form I-485 are now optional when they do not apply. Related nonimmigrant visa fields were also reviewed so they do not block submission when left blank for non-applicable cases.</p>\n<p>In Part 4, the “Employer or School” helper field is no longer required. The actual “Name of Employer, Company, or School” field remains required, so users still provide the core employment or education information without being forced to duplicate it.</p>\n<p>In Part 9F, questions 78.a and 78.b were updated to match the official PDF structure more closely. The shared parent question now appears above both items, and 78.a includes the explanatory unlawful-presence text from the official form.</p>\n<h2><strong>Conclusion</strong></h2>\n<p>These updates make Form I-485 clearer, less repetitive, and closer to the official USCIS form language. Users should now be able to complete the family-based I-485 flow without being blocked by non-applicable passport or travel document fields, duplicate employer/school fields, or confusing wording in Part 9F.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Fixed"
-            ],
-            "date_published": "2026-08-31T12:44:03+05:30",
-            "date_modified": "2026-08-31T12:44:06+05:30"
         }
     ]
 }

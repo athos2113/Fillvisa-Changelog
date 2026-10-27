@@ -3,12 +3,36 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-10-25T22:47:02+05:30</updated>
+    <updated>2026-10-27T13:45:14+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fix: DS-160 “Not Employed” Validation</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fix-ds-160-not-employed-validation/"/>
+        <id>https://changelog.fillvisa.com/fix-ds-160-not-employed-validation/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-10-27T13:44:06+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    We fixed an issue in the DS-160 Present Work section that blocked submission when “Not Employed” was selected as the Primary Occupation. Previously, the form incorrectly required hidden employer details, including employer name, address, phone number, and monthly income. You can now submit this section&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We fixed an issue in the <a href="https://fillvisa.com/form/usa-ds160">DS-160 Present Work section</a> that blocked submission when “Not Employed” was selected as the Primary Occupation.</p>
+<p>Previously, the form incorrectly required hidden employer details, including employer name, address, phone number, and monthly income.</p>
+<p>You can now submit this section without entering employer details when “Not Employed” is selected. The “Explain” field remains optional.</p>
+<p>This fix covers <a href="https://fillvisa.com/">Fillvisa Free</a>,<a href="https://github.com/athos2113/fillvisa-os"> Fillvisa OS</a>, <a href="https://plus.fillvisa.com/">Fillvisa Plus</a>, and <a href="https://plus.fillvisa.com/team">Fillvisa Team</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fillvisa OS v.1.5.0</title>
         <author>
@@ -462,28 +486,6 @@
 </li>
 </ul>
 <p>USCIS periodically revises its forms and filing requirements, so applicants should always verify the current edition and instructions on USCIS before filing.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Form I-539 is Live</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/form-i-539-is-live/"/>
-        <id>https://changelog.fillvisa.com/form-i-539-is-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-09-19T14:56:30+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Form I-539: Application to Extend/Change Nonimmigrant Status - now available on Fillvisa What's new Fill I-539 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="mb-0 display-4"><a href="https://fillvisa.com/form/i-539/">Form I-539: Application to Extend/Change Nonimmigrant Status</a> - now available on Fillvisa</p>
-<p><strong>What's new</strong><br><br>Fill I-539 for free, right in your browser - no account, nothing ever leaves your device.<br><br><strong>What's next</strong><br><br>More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.<br><br>Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
             ]]>
         </content>
     </entry>

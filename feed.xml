@@ -489,4 +489,344 @@
             ]]>
         </content>
     </entry>
+    <entry>
+        <title>Form I-539 is Live</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/form-i-539-is-live/"/>
+        <id>https://changelog.fillvisa.com/form-i-539-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-09-19T14:56:30+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Form I-539: Application to Extend/Change Nonimmigrant Status - now available on Fillvisa What's new Fill I-539 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="mb-0 display-4"><a href="https://fillvisa.com/form/i-539/">Form I-539: Application to Extend/Change Nonimmigrant Status</a> - now available on Fillvisa</p>
+<p><strong>What's new</strong><br><br>Fill I-539 for free, right in your browser - no account, nothing ever leaves your device.<br><br><strong>What's next</strong><br><br>More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.<br><br>Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fix: Form I-485 Family-Based Flow Validation and Question Wording Improvements</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/"/>
+        <id>https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-08-31T12:44:03+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    We shipped a set of fixes to the Form I-485 family-based flow after users reported a few confusing validation and wording issues while completing the form. Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We shipped a set of fixes to the<a href="https://fillvisa.com/form/i-485/"> Form I-485</a> family-based flow after users reported a few confusing validation and wording issues while completing the form.</p>
+<h2><strong>What Happened</strong></h2>
+<p>Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring passport or travel document details such as passport number, expiration date, and country of issuance, even when the applicant did not need to provide them.</p>
+<p>Another issue appeared in <a href="https://fillvisa.com/form/i-485/additional-info">Part 4: Additional Info</a>. The employment and education section had two similar fields: “Employer or School” and “Name of Employer, Company, or School.” Because both were required, users had to type into both fields before they could submit the section.</p>
+<p>We also found a wording issue in<a href="https://fillvisa.com/form/i-485/general-eligibility-9f"> Part 9F,</a> questions 78.a and 78.b. The online form showed 78.a as if it were only asking about unlawful presence after April 1, 1997. The official PDF question is broader: it first asks whether the applicant reentered or attempted to reenter the United States after certain events, then lists 78.a and 78.b as the specific conditions.</p>
+<h2><strong>Effect of the Problem</strong></h2>
+<p>These issues could make users answer differently online than they would on the official USCIS PDF.</p>
+<p>For applicants whose passport, travel document, or visa details did not apply, the form could feel impossible to complete because it asked for information they did not have.</p>
+<p>For Part 4, users were forced to duplicate employment or school information just to pass validation.</p>
+<p>For Part 9F, the missing parent question changed the meaning of 78.a and 78.b. A user might answer “Yes” based only on unlawful presence, even though the actual form is asking about reentry or attempted reentry after unlawful presence or removal.</p>
+<h2><strong>What Was Fixed</strong></h2>
+<p>Passport and travel document fields in Form I-485 are now optional when they do not apply. Related nonimmigrant visa fields were also reviewed so they do not block submission when left blank for non-applicable cases.</p>
+<p>In Part 4, the “Employer or School” helper field is no longer required. The actual “Name of Employer, Company, or School” field remains required, so users still provide the core employment or education information without being forced to duplicate it.</p>
+<p>In Part 9F, questions 78.a and 78.b were updated to match the official PDF structure more closely. The shared parent question now appears above both items, and 78.a includes the explanatory unlawful-presence text from the official form.</p>
+<h2><strong>Conclusion</strong></h2>
+<p>These updates make Form I-485 clearer, less repetitive, and closer to the official USCIS form language. Users should now be able to complete the family-based I-485 flow without being blocked by non-applicable passport or travel document fields, duplicate employer/school fields, or confusing wording in Part 9F.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fix: I-485 and I-130 validation issues resolved</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fix-i-485-and-i-130-validation-issues-resolved/"/>
+        <id>https://changelog.fillvisa.com/fix-i-485-and-i-130-validation-issues-resolved/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-08-29T13:59:55+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Received user reports about two form issues affecting Form I-485 and Form I-130. On Form I-485, users were being forced to enter additional dates of birth and A-Numbers even when they only had one date of birth and no A-Number. On Form I-130, users could&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Received user reports about two form issues affecting<a href="https://fillvisa.com/form/i-485/"> Form I-485</a> and <a href="https://fillvisa.com/form/i-130/">Form I-130</a>.</p>
+<h2>Problem</h2>
+<p>On Form I-485, users were being forced to enter additional dates of birth and A-Numbers even when they only had one date of birth and no A-Number.</p>
+<p>On Form I-130, users could not enter the “Date From” for their current physical address when their mailing address was the same as their physical address.</p>
+<h2>Effect</h2>
+<p>For I-485, this blocked users from completing the form accurately. Applicants without another date of birth or A-Number had no valid way to proceed without entering unnecessary placeholder information.</p>
+<p>For I-130, users could not provide the required start date for their current address in some address scenarios. This also meant the date could be missed when generating the completed PDF.</p>
+<h2>Solution</h2>
+<p>We updated the I-485 validation so optional second date of birth and second A-Number fields are no longer required when left blank. We also corrected the main A-Number validation so it only applies to the actual A-Number field when the user selects “Yes.”</p>
+<p>We updated the I-130 address flow so the current physical address “Date From” field remains available after the user answers whether their mailing address is the same as their physical address. The generated PDF now also includes this date correctly.</p>
+<h2>Conclusion</h2>
+<p>Users can now complete both forms more naturally:</p>
+<ul>
+<li>I-485 no longer asks for extra DOB or A-Number details when they do not apply.</li>
+<li>I-130 now allows users to enter the current address start date even when mailing and physical addresses are the same.</li>
+<li>The saved form data and downl</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fillvisa OS v1.0.0: Going Open Source, Self-host, and more</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fillvisa-os-v100-going-open-source-self-host-and-more/"/>
+        <id>https://changelog.fillvisa.com/fillvisa-os-v100-going-open-source-self-host-and-more/</id>
+
+        <updated>2026-08-23T23:38:58+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Today, we're releasing Fillvisa OS v1.0.0 - the first official release of the open-source edition of Fillvisa. This is an important milestone for us. Fillvisa started with a simple goal: make immigration paperwork more accessible, less frustrating, and easier to understand. Open sourcing Fillvisa is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="isSelectedEnd">Today, we're releasing <strong><a href="https://github.com/athos2113/fillvisa-os">Fillvisa OS v1.0.0</a></strong> - the first official release of the open-source edition of Fillvisa.</p>
+<p class="isSelectedEnd">This is an important milestone for us. Fillvisa started with a simple goal: make immigration paperwork more accessible, less frustrating, and easier to understand. Open sourcing Fillvisa is the next step toward that goal.</p>
+<p class="isSelectedEnd">We wrote more about why we're taking this direction in <a href="https://blog.fillvisa.com/fillvisa-is-now-open-source/"><strong>Fillvisa is now Open Source</strong></a>.</p>
+<h2>Introducing Fillvisa OS</h2>
+<p class="isSelectedEnd"><strong><a href="https://github.com/athos2113/fillvisa-os">Fillvisa OS</a> is the open-source edition of </strong><a href="https://fillvisa.com/"><strong>Fillvisa.com</strong></a><strong>.</strong></p>
+<p class="isSelectedEnd">The source code is now publicly available on GitHub:</p>
+<p class="isSelectedEnd"><a href="https://github.com/athos2113/fillvisa-os"><strong>github.com/athos2113/fillvisa-os</strong></a></p>
+<p class="isSelectedEnd">Fillvisa.com will continue to be the hosted version that anyone can use directly in their browser. Fillvisa OS gives developers, organizations, nonprofits, and technically inclined users another option: run and customize the software themselves.</p>
+<p class="isSelectedEnd">With Fillvisa OS, you can:</p>
+<ul data-spread="false">
+<li><strong>Self-host Fillvisa</strong> on your own infrastructure.</li>
+<li><strong>Inspect the source code</strong> and understand exactly how the application works.</li>
+<li><strong>Fork the repository</strong> and customize Fillvisa for your own use case.</li>
+<li><strong>Build on top of Fillvisa</strong> instead of starting an immigration-form experience from scratch.</li>
+<li>Run an independent version while continuing to benefit from future Fillvisa OS releases.</li>
+</ul>
+<p class="isSelectedEnd">The goal is for Fillvisa.com and Fillvisa OS to complement each other: one provides an immediately accessible hosted experience, while the other provides transparency, control, and the ability to build.</p>
+<h2>Version 1.0.0</h2>
+<p class="isSelectedEnd">We're calling this release <strong>Fillvisa OS v1.0.0</strong>.</p>
+<p class="isSelectedEnd">It's our starting point for treating the open-source project as a first-class Fillvisa product with its own releases and version history.</p>
+<p class="isSelectedEnd">As Fillvisa OS evolves, we'll publish new versions with improvements, new functionality, fixes, and changes to the underlying project.</p>
+<p class="isSelectedEnd">You can follow the repository on GitHub for the latest source code:</p>
+<p class="isSelectedEnd"><a href="https://github.com/athos2113/fillvisa-os"><strong>Fillvisa OS on GitHub →</strong></a></p>
+<h2>A New Changelog Tag: Releases</h2>
+<p class="isSelectedEnd">You'll also notice a new tag here on the Fillvisa Changelog:</p>
+<p class="isSelectedEnd"><strong>Releases</strong></p>
+<p class="isSelectedEnd">The <strong>Releases</strong> tag will be used exclusively for <strong>Fillvisa OS release announcements</strong>.</p>
+<p class="isSelectedEnd">Whenever we ship a notable new version of the open-source project, we'll document it here - starting with <strong>v1.0.0</strong>.</p>
+<p class="isSelectedEnd">This also gives each of our changelog tags a clearer purpose.</p>
+<h3>Releases</h3>
+<p class="isSelectedEnd">Posts about <strong>Fillvisa OS releases</strong>.</p>
+<p class="isSelectedEnd">For example:</p>
+<ul data-spread="false">
+<li>Fillvisa OS v1.0.0</li>
+<li>Fillvisa OS v1.1.0</li>
+<li>Major changes between open-source versions</li>
+<li>Release-specific migration or upgrade information</li>
+</ul>
+<h3>Added</h3>
+<p class="isSelectedEnd">Something <strong>new has been introduced</strong> across Fillvisa Free, Fillvisa OS, or Fillvisa Plus.</p>
+<p class="isSelectedEnd">This can include:</p>
+<ul data-spread="false">
+<li>New immigration forms</li>
+<li>New features</li>
+<li>New workflows</li>
+<li>New product capabilities</li>
+</ul>
+<h3>Fixed</h3>
+<p class="isSelectedEnd">We've <strong>fixed a bug or problem</strong> in Fillvisa Free, Fillvisa OS, or Fillvisa Plus.</p>
+<p class="isSelectedEnd">These posts will cover fixes that improve reliability and correct unexpected behavior.</p>
+<h3>Update</h3>
+<p class="isSelectedEnd">We've <strong>improved or enhanced something that already exists</strong> across Fillvisa Free, Fillvisa OS, or Fillvisa Plus.</p>
+<p class="isSelectedEnd">This might include:</p>
+<ul data-spread="false">
+<li>UI improvements</li>
+<li>Better form experiences</li>
+<li>Performance improvements</li>
+<li>Workflow enhancements</li>
+<li>Changes to existing functionality</li>
+</ul>
+<p class="isSelectedEnd">Together, these tags should make it much easier to follow what is changing across the Fillvisa ecosystem.</p>
+<h2>What's Next</h2>
+<p class="isSelectedEnd">v1.0.0 is only the beginning.</p>
+<p class="isSelectedEnd">By making Fillvisa open source, we're giving developers and organizations a foundation they can inspect, self-host, customize, and build upon.</p>
+<p class="isSelectedEnd">At the same time, we'll continue improving the hosted Fillvisa products and bringing those improvements back into the broader Fillvisa ecosystem where appropriate.</p>
+<p class="isSelectedEnd">If you'd like to explore the code, self-host Fillvisa, or simply follow the project as it develops, you can find everything on GitHub:</p>
+<p class="isSelectedEnd"><a href="https://github.com/athos2113/fillvisa-os"><strong>Explore Fillvisa OS →</strong></a></p>
+<p>Welcome to <strong>Fillvisa OS v1.0.0</strong>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fixed: Broken Form link in the legal and portal form views.</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/"/>
+        <id>https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-07-22T22:36:30+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Fixed a broken <strong>Start Form</strong> link in <a href="https://app.fillvisa.com/">Fillvisa Plus App</a>. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent <code>forms/start/{id}</code> route</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I-765 is live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/i-765-is-live/"/>
+        <id>https://changelog.fillvisa.com/i-765-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-07-09T23:50:32+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Application for Employment Authorization - now available on Fillvisa What's new Fill I-765 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Application for Employment Authorization - now available on <a href="https://fillvisa.com/form/i-765/" class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current">Fillvisa</a></p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">Fill I-765 for free, right in your browser - no account, nothing ever leaves your device.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>🛠️ PDF preview before download</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/pdf-preview-before-download/"/>
+        <id>https://changelog.fillvisa.com/pdf-preview-before-download/</id>
+
+        <updated>2026-07-08T22:46:05+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device. What's new The download page now embeds a live preview of your completed form, so you can review formatting, check&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">The download page now embeds a live preview of your completed form, so you can review formatting, check that every field looks right, and catch anything off before you download.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why it matters</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">No more downloading a form just to check it, then redoing it if something's wrong. Review first, download once you're confident it's correct.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More <a href="https://fillvisa.com/form">forms </a>are on the way. Follow this <a href="changelog.fillvisa.com">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a feature you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I-907 is live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/i-907-is-live/"/>
+        <id>https://changelog.fillvisa.com/i-907-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-07-08T22:42:40+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Request for Premium Processing Service - now available on Fillvisa Plus. What's new Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition. Why Plus I-907 is filed by a professional on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Request for Premium Processing Service - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">I-907 is filed by a professional on a client's or employer's behalf to expedite an existing petition - not something a self-filer submits on its own - so it belongs in Plus alongside the rest of the case's paperwork.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>G-1650 is live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/g-1650-is-live/"/>
+        <id>https://changelog.fillvisa.com/g-1650-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-07-08T22:40:37+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Authorization for Electronic Signature - now available on Fillvisa Plus. What's new Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports. Why Plus G-1650 accompanies forms filed by a professional&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Authorization for Electronic Signature - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">G-1650 accompanies forms filed by a professional on a client's behalf, not a self-filed submission - so it belongs in Plus alongside the rest of the case's paperwork.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>G-1450 is live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/g-1450-is-live/"/>
+        <id>https://changelog.fillvisa.com/g-1450-is-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-07-07T01:02:40+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Authorization for Credit Card Transactions - now available on Fillvisa Plus. What's new Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together. Why Plus G-1450 is a payment authorization tied to a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">Authorization for Credit Card Transactions - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">G-1450 is a payment authorization tied to a professional's filing on a client's behalf, not something a self-filer typically submits alone - so it belongs in Plus alongside the rest of the case's paperwork.</p>
+<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -3,12 +3,106 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-10-27T13:45:14+05:30</updated>
+    <updated>2026-11-01T22:48:53+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Form I-751 Is Now Live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/form-i-751-is-now-live/"/>
+        <id>https://changelog.fillvisa.com/form-i-751-is-now-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-11-01T22:48:53+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Form I-751, Petition to Remove Conditions on Residence, is now available on Fillvisa! Prepare your petition directly in your browser, with: Free to use, with no account required. Your answers stay in your browser. 👉 Start Form I-751
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Form I-751, <strong>Petition to Remove Conditions on Residence</strong>, is now available on Fillvisa!</p>
+<p>Prepare your petition directly in your browser, with:</p>
+<ul>
+<li>All ten form sections and automatic saving.</li>
+<li>Conditional questions that show relevant fields.</li>
+<li>Signature pads with signatures embedded as read-only images.</li>
+<li>Additional Information pages generated automatically when needed.</li>
+<li>PDF preview before downloading.</li>
+</ul>
+<p>Free to use, with no account required. Your answers stay in your browser.</p>
+<p>👉 <a href="https://fillvisa.com/form/i-751/">Start Form I-751</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Applications Are Now Live 🎉</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/applications-are-now-live/"/>
+        <id>https://changelog.fillvisa.com/applications-are-now-live/</id>
+            <category term="Added"/>
+
+        <updated>2026-11-01T22:47:29+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    We’ve released Applications - a new way to explore immigration paperwork based on what you’re trying to accomplish. Applications bring related forms together into guides for real immigration processes, from applying for a marriage-based green card to renewing DACA or preparing an employment-based application. How&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We’ve released <a href="https://fillvisa.com/applications/">Applications</a> - a new way to explore immigration paperwork based on what you’re trying to accomplish.</p>
+<p>Applications bring related forms together into guides for real immigration processes, from applying for a marriage-based green card to renewing DACA or preparing an employment-based application.</p>
+<p><strong>How it works</strong></p>
+<ol start="1">
+<li><strong>Find your application.</strong> Search the <a href="https://fillvisa.com/applications/">Applications directory</a> by application name or form number.</li>
+<li><strong>Understand the process.</strong> Review who the application is for, basic eligibility requirements, and getting-started steps.</li>
+<li><strong>Explore the forms.</strong> See the main forms, supporting documents, and optional or conditional requests. Multi-stage processes group forms by stage.</li>
+<li><strong>Start preparing.</strong> Open supported forms directly in Fillvisa. Where a Fillvisa tool isn’t available, follow links to official government forms and instructions.</li>
+</ol>
+<p>Selected pages also include preparation-service comparisons to help you understand the available options.</p>
+<p><strong>23 application guides available at launch</strong></p>
+<p><strong>Family-based immigration</strong></p>
+<ul>
+<li><a href="https://fillvisa.com/applications/marriage-based-green-card.html">Marriage-Based Green Card</a></li>
+<li><a href="https://fillvisa.com/applications/petition-by-spouse.html">Petition by Spouse</a></li>
+<li><a href="https://fillvisa.com/applications/k-1.html">Fiancé-Petitioned K-1 Visa</a></li>
+<li><a href="https://fillvisa.com/applications/removal-of-conditions.html">Removal of Conditions</a></li>
+<li>Parent sponsoring a child: <a href="https://fillvisa.com/applications/parent-petitioned-consular-green-card.html">Consular Processing</a> or <a href="https://fillvisa.com/applications/parent-petitioned-aos-green-card.html">Adjustment of Status</a></li>
+<li>U.S. citizen child sponsoring a parent: <a href="https://fillvisa.com/applications/child-petitioned-consular-green-card.html">Consular Processing</a> or <a href="https://fillvisa.com/applications/child-petitioned-aos-green-card.html">Adjustment of Status</a></li>
+</ul>
+<p><strong>Employment-based immigration</strong></p>
+<ul>
+<li><a href="https://fillvisa.com/applications/eb-1a.html">EB-1A — Extraordinary Ability</a></li>
+<li><a href="https://fillvisa.com/applications/eb-1b.html">EB-1B — Outstanding Professor or Researcher</a></li>
+<li><a href="https://fillvisa.com/applications/eb-1c.html">EB-1C — Multinational Manager or Executive</a></li>
+<li><a href="https://fillvisa.com/applications/eb-2-niw.html">EB-2 — National Interest Waiver</a></li>
+<li><a href="https://fillvisa.com/applications/eb-2.html">EB-2 — Employer-Sponsored Green Card</a></li>
+<li><a href="https://fillvisa.com/applications/eb-3.html">EB-3 — Employer-Sponsored Green Card</a></li>
+<li><a href="https://fillvisa.com/applications/employment-based-adjustment-of-status.html">Employment-Based Green Card — Adjustment of Status</a></li>
+<li><a href="https://fillvisa.com/applications/h-1b.html">H-1B — Specialty Occupation</a></li>
+<li><a href="https://fillvisa.com/applications/o-1.html">O-1 — Extraordinary Ability or Achievement</a></li>
+</ul>
+<p><strong>Citizenship, renewals, and other applications</strong></p>
+<ul>
+<li><a href="https://fillvisa.com/applications/citizenship.html">Citizenship</a></li>
+<li><a href="https://fillvisa.com/applications/green-card-renewal.html">Green Card Renewal</a></li>
+<li><a href="https://fillvisa.com/applications/employment-authorization-document.html">Employment Authorization Document</a></li>
+<li><a href="https://fillvisa.com/applications/travel-document.html">Travel Document</a></li>
+<li><a href="https://fillvisa.com/applications/extension-of-status.html">Extension of Status</a></li>
+<li><a href="https://fillvisa.com/applications/daca-renewal.html">DACA Renewal</a></li>
+</ul>
+<p>Applications and supported Fillvisa form tools are free to use. You still review, sign, and submit your forms according to the relevant government instructions; government fees are separate.</p>
+<p><strong><a href="https://fillvisa.com/applications/">Explore Applications →</a></strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fix: DS-160 “Not Employed” Validation</title>
         <author>
@@ -769,62 +863,6 @@
 <p class="font-claude-response-body break-words whitespace-normal">I-907 is filed by a professional on a client's or employer's behalf to expedite an existing petition - not something a self-filer submits on its own - so it belongs in Plus alongside the rest of the case's paperwork.</p>
 <p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
 <p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>G-1650 is live 🎉</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/g-1650-is-live/"/>
-        <id>https://changelog.fillvisa.com/g-1650-is-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-07-08T22:40:37+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Authorization for Electronic Signature - now available on Fillvisa Plus. What's new Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports. Why Plus G-1650 accompanies forms filed by a professional&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal">Authorization for Electronic Signature - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">Fill G-1650 in Plus and attach it to any case that requires an e-signature authorization, so signature paperwork stays with the filing it supports.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">G-1650 accompanies forms filed by a professional on a client's behalf, not a self-filed submission - so it belongs in Plus alongside the rest of the case's paperwork.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>G-1450 is live 🎉</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/g-1450-is-live/"/>
-        <id>https://changelog.fillvisa.com/g-1450-is-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-07-07T01:02:40+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Authorization for Credit Card Transactions - now available on Fillvisa Plus. What's new Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together. Why Plus G-1450 is a payment authorization tied to a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal">Authorization for Credit Card Transactions - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">Fill G-1450 in Plus and attach it to any case that requires credit card payment, so filing fees and paperwork move together.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">G-1450 is a payment authorization tied to a professional's filing on a client's behalf, not something a self-filer typically submits alone - so it belongs in Plus alongside the rest of the case's paperwork.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.</p>
 <p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
             ]]>
         </content>

@@ -3,12 +3,90 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-01T22:48:53+05:30</updated>
+    <updated>2026-11-01T23:00:59+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fillvisa OS v1.6.0</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fillvisa-os-v160/"/>
+        <id>https://changelog.fillvisa.com/fillvisa-os-v160/</id>
+            <category term="Releases"/>
+
+        <updated>2026-11-01T22:59:57+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Fillvisa OS v1.6.0 introduces Form I-751, launches Applications to help users navigate immigration processes, and fixes a DS-160 validation issue. Added Form I-751 - Petition to Remove Conditions on Residence. All ten form sections with automatic saving. Conditional questions that display relevant fields. Signature pads with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Fillvisa OS v1.6.0 introduces Form I-751, launches <strong>Applications</strong> to help users navigate immigration processes, and fixes a DS-160 validation issue.</p>
+<h3>🆕 New Form: I-751</h3>
+<p>Added <strong>Form I-751 - Petition to Remove Conditions on Residence</strong>.</p>
+<ul>
+<li>
+<p>All ten form sections with automatic saving.</p>
+</li>
+<li>
+<p>Conditional questions that display relevant fields.</p>
+</li>
+<li>
+<p>Signature pads with signatures embedded in the PDF.</p>
+</li>
+<li>
+<p>Automatic generation of Additional Information pages when needed.</p>
+</li>
+<li>
+<p>PDF preview before downloading.</p>
+</li>
+</ul>
+<p><a href="https://changelog.fillvisa.com/form-i-751-is-now-live/">Read the changelog</a></p>
+<h3>🗂️ New: Applications</h3>
+<p>Introduced <strong>Applications</strong>, a new way to explore immigration processes and their associated forms.</p>
+<ul>
+<li>
+<p><strong>23 application guides</strong> covering family-based immigration, employment-based immigration, citizenship, DACA renewals, and more.</p>
+</li>
+<li>
+<p>Browse applications by name or form number.</p>
+</li>
+<li>
+<p>Review basic eligibility, preparation steps, required forms, and supporting documents.</p>
+</li>
+<li>
+<p>Open supported forms directly in Fillvisa, with links to official government resources for other forms.</p>
+</li>
+<li>
+<p>Navigate multi-stage immigration processes with forms organized by stage.</p>
+</li>
+</ul>
+<p><a href="https://changelog.fillvisa.com/applications-are-now-live/">Read the changelog</a></p>
+<h3>🛠️ Fix: DS-160 "Not Employed" Validation</h3>
+<p>Fixed an issue in the DS-160 Present Work section where selecting <strong>"Not Employed"</strong> incorrectly triggered validation errors for hidden employer fields.</p>
+<ul>
+<li>
+<p>Employer name, address, phone number, and monthly income are no longer required when "Not Employed" is selected.</p>
+</li>
+<li>
+<p>The "Explain" field remains optional.</p>
+</li>
+<li>
+<p>Users can now complete the section without unnecessary validation errors.</p>
+</li>
+</ul>
+<p><a href="https://changelog.fillvisa.com/fix-ds-160-not-employed-validation/">Read the changelog</a></p>
+<div><hr></div>
+<p><strong>Fillvisa OS</strong> is free, open-source immigration form preparation software. No account required, with form data stored locally in your browser.</p>
+<p><strong>Try it:</strong> <a href="https://fillvisa.com/">https://fillvisa.com/</a><br><strong>Source code:</strong> <a href="https://github.com/athos2113/fillvisa-os">https://github.com/athos2113/fillvisa-os</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Form I-751 Is Now Live 🎉</title>
         <author>
@@ -836,34 +914,6 @@
 <p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
 <p class="font-claude-response-body break-words whitespace-normal">More <a href="https://fillvisa.com/form">forms </a>are on the way. Follow this <a href="changelog.fillvisa.com">changelog </a>for updates as they ship.</p>
 <p class="font-claude-response-body break-words whitespace-normal">Have a feature you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>I-907 is live 🎉</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/i-907-is-live/"/>
-        <id>https://changelog.fillvisa.com/i-907-is-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-07-08T22:42:40+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Request for Premium Processing Service - now available on Fillvisa Plus. What's new Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition. Why Plus I-907 is filed by a professional on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal">Request for Premium Processing Service - now available on <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">Fill I-907 in Plus and attach it to any case where you're requesting expedited processing, so the request travels with the underlying petition.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>Why Plus</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">I-907 is filed by a professional on a client's or employer's behalf to expedite an existing petition - not something a self-filer submits on its own - so it belongs in Plus alongside the rest of the case's paperwork.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
             ]]>
         </content>
     </entry>

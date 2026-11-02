@@ -3,12 +3,39 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-01T23:00:59+05:30</updated>
+    <updated>2026-11-02T10:55:46+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Form Edition Dates Are Now Visible 📅</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/form-edition-dates-are-now-visible/"/>
+        <id>https://changelog.fillvisa.com/form-edition-dates-are-now-visible/</id>
+            <category term="Added"/>
+
+        <updated>2026-11-02T10:55:42+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS. We’ve added edition dates in two places: Dates appear in a clear, readable format, such as Sep 18, 2026, making it easier to identify the edition used for your paperwork.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS.</p>
+<p>We’ve added edition dates in two places:</p>
+<ul>
+<li><strong>Form landing pages:</strong> Check the form edition before you start.</li>
+<li><strong>PDF preview/download areas:</strong> See the PDF edition before saving your completed form.</li>
+</ul>
+<p>Dates appear in a clear, readable format, such as <strong>Sep 18, 2026</strong>, making it easier to identify the edition used for your paperwork.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fillvisa OS v1.6.0</title>
         <author>
@@ -887,33 +914,6 @@
 <p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
 <p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
 <p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>🛠️ PDF preview before download</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/pdf-preview-before-download/"/>
-        <id>https://changelog.fillvisa.com/pdf-preview-before-download/</id>
-
-        <updated>2026-07-08T22:46:05+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device. What's new The download page now embeds a live preview of your completed form, so you can review formatting, check&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal">Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">The download page now embeds a live preview of your completed form, so you can review formatting, check that every field looks right, and catch anything off before you download.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>Why it matters</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">No more downloading a form just to check it, then redoing it if something's wrong. Review first, download once you're confident it's correct.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">More <a href="https://fillvisa.com/form">forms </a>are on the way. Follow this <a href="changelog.fillvisa.com">changelog </a>for updates as they ship.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Have a feature you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
             ]]>
         </content>
     </entry>

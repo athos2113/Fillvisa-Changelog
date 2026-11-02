@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/form-edition-dates-are-now-visible/",
+            "url": "https://changelog.fillvisa.com/form-edition-dates-are-now-visible/",
+            "title": "Form Edition Dates Are Now Visible 📅",
+            "summary": "You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS. We’ve added edition dates in two places: Dates appear in a clear, readable format, such as Sep 18, 2026, making it easier to identify the edition used for your paperwork.",
+            "content_html": "<p>You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS.</p>\n<p>We’ve added edition dates in two places:</p>\n<ul>\n<li><strong>Form landing pages:</strong> Check the form edition before you start.</li>\n<li><strong>PDF preview/download areas:</strong> See the PDF edition before saving your completed form.</li>\n</ul>\n<p>Dates appear in a clear, readable format, such as <strong>Sep 18, 2026</strong>, making it easier to identify the edition used for your paperwork.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Added"
+            ],
+            "date_published": "2026-11-02T10:55:42+05:30",
+            "date_modified": "2026-11-02T10:55:46+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/fillvisa-os-v160/",
             "url": "https://changelog.fillvisa.com/fillvisa-os-v160/",
             "title": "Fillvisa OS v1.6.0",
@@ -294,20 +309,6 @@
             ],
             "date_published": "2026-07-09T23:50:32+05:30",
             "date_modified": "2026-07-09T23:53:14+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/pdf-preview-before-download/",
-            "url": "https://changelog.fillvisa.com/pdf-preview-before-download/",
-            "title": "🛠️ PDF preview before download",
-            "summary": "Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device. What's new The download page now embeds a live preview of your completed form, so you can review formatting, check&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Once your form is ready, you can now preview the finished PDF right on the download page - before you save it to your device.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">The download page now embeds a live preview of your completed form, so you can review formatting, check that every field looks right, and catch anything off before you download.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>Why it matters</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">No more downloading a form just to check it, then redoing it if something's wrong. Review first, download once you're confident it's correct.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More <a href=\"https://fillvisa.com/form\">forms </a>are on the way. Follow this <a href=\"changelog.fillvisa.com\">changelog </a>for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a feature you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-08T22:46:05+05:30",
-            "date_modified": "2026-07-08T22:46:16+05:30"
         }
     ]
 }

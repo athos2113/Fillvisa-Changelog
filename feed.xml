@@ -3,12 +3,54 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-02T10:55:46+05:30</updated>
+    <updated>2026-11-07T16:17:23+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fixed: Missing state options in Form I-485</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fixed-missing-state-options-in-form-i-485/"/>
+        <id>https://changelog.fillvisa.com/fixed-missing-state-options-in-form-i-485/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-11-07T16:17:23+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fixed: Mailing address selection in Form I-485</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/"/>
+        <id>https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/</id>
+            <category term="Fixed"/>
+
+        <updated>2026-11-07T16:17:00+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Form Edition Dates Are Now Visible 📅</title>
         <author>
@@ -867,53 +909,6 @@
 <p class="isSelectedEnd">If you'd like to explore the code, self-host Fillvisa, or simply follow the project as it develops, you can find everything on GitHub:</p>
 <p class="isSelectedEnd"><a href="https://github.com/athos2113/fillvisa-os"><strong>Explore Fillvisa OS →</strong></a></p>
 <p>Welcome to <strong>Fillvisa OS v1.0.0</strong>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fixed: Broken Form link in the legal and portal form views.</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/"/>
-        <id>https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/</id>
-            <category term="Fixed"/>
-
-        <updated>2026-07-22T22:36:30+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Fixed a broken <strong>Start Form</strong> link in <a href="https://app.fillvisa.com/">Fillvisa Plus App</a>. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent <code>forms/start/{id}</code> route</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>I-765 is live 🎉</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/i-765-is-live/"/>
-        <id>https://changelog.fillvisa.com/i-765-is-live/</id>
-            <category term="Added"/>
-
-        <updated>2026-07-09T23:50:32+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Application for Employment Authorization - now available on Fillvisa What's new Fill I-765 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="font-claude-response-body break-words whitespace-normal">Application for Employment Authorization - now available on <a href="https://fillvisa.com/form/i-765/" class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current">Fillvisa</a></p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's new</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">Fill I-765 for free, right in your browser - no account, nothing ever leaves your device.</p>
-<p class="font-claude-response-body break-words whitespace-normal"><strong>What's next</strong></p>
-<p class="font-claude-response-body break-words whitespace-normal">More EB-1 through EB-5 forms are on the way. Follow this <a href="https://changelog.fillvisa.com/">changelog </a>for updates as they ship.</p>
-<p class="font-claude-response-body break-words whitespace-normal">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
             ]]>
         </content>
     </entry>

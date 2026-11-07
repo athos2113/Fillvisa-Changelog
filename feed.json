@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://changelog.fillvisa.com/fixed-missing-state-options-in-form-i-485/",
+            "url": "https://changelog.fillvisa.com/fixed-missing-state-options-in-form-i-485/",
+            "title": "Fixed: Missing state options in Form I-485",
+            "summary": "Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.",
+            "content_html": "<p>Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-11-07T16:17:23+05:30",
+            "date_modified": "2026-11-07T16:17:23+05:30"
+        },
+        {
+            "id": "https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/",
+            "url": "https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/",
+            "title": "Fixed: Mailing address selection in Form I-485",
+            "summary": "Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.",
+            "content_html": "<p>Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.</p>",
+            "author": {
+                "name": "Junaid Khan"
+            },
+            "tags": [
+                   "Fixed"
+            ],
+            "date_published": "2026-11-07T16:17:00+05:30",
+            "date_modified": "2026-11-07T16:17:07+05:30"
+        },
+        {
             "id": "https://changelog.fillvisa.com/form-edition-dates-are-now-visible/",
             "url": "https://changelog.fillvisa.com/form-edition-dates-are-now-visible/",
             "title": "Form Edition Dates Are Now Visible 📅",
@@ -279,36 +309,6 @@
             ],
             "date_published": "2026-08-23T23:38:58+05:30",
             "date_modified": "2026-08-23T23:38:58+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/",
-            "url": "https://changelog.fillvisa.com/fixed-broken-form-link-in-the-legal-and-portal-form-views/",
-            "title": "Fixed: Broken Form link in the legal and portal form views.",
-            "summary": "Fixed a broken Start Form link in Fillvisa Plus App. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent forms/start/{id} route",
-            "content_html": "<p>Fixed a broken <strong>Start Form</strong> link in <a href=\"https://app.fillvisa.com/\">Fillvisa Plus App</a>. The button now opens the correct form intro page using the form’s template slug and form ID, instead of pointing to the old non-existent <code>forms/start/{id}</code> route</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Fixed"
-            ],
-            "date_published": "2026-07-22T22:36:30+05:30",
-            "date_modified": "2026-07-22T22:37:52+05:30"
-        },
-        {
-            "id": "https://changelog.fillvisa.com/i-765-is-live/",
-            "url": "https://changelog.fillvisa.com/i-765-is-live/",
-            "title": "I-765 is live 🎉",
-            "summary": "Application for Employment Authorization - now available on Fillvisa What's new Fill I-765 for free, right in your browser - no account, nothing ever leaves your device. What's next More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they&hellip;",
-            "content_html": "<p class=\"font-claude-response-body break-words whitespace-normal\">Application for Employment Authorization - now available on <a href=\"https://fillvisa.com/form/i-765/\" class=\"underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current\">Fillvisa</a></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's new</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Fill I-765 for free, right in your browser - no account, nothing ever leaves your device.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\"><strong>What's next</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">More EB-1 through EB-5 forms are on the way. Follow this <a href=\"https://changelog.fillvisa.com/\">changelog </a>for updates as they ship.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>",
-            "author": {
-                "name": "Junaid Khan"
-            },
-            "tags": [
-                   "Added"
-            ],
-            "date_published": "2026-07-09T23:50:32+05:30",
-            "date_modified": "2026-07-09T23:53:14+05:30"
         }
     ]
 }

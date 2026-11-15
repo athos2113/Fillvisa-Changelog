@@ -48,6 +48,7 @@
             "title": "Fixed: Missing state options in Form I-485",
             "summary": "Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.",
             "content_html": "<p>Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.</p>",
+            "image": "https://changelog.fillvisa.com/media/posts/51/Fillvisa-Fix_-Form-I-485-State-Options.png",
             "author": {
                 "name": "Junaid Khan"
             },
@@ -55,7 +56,7 @@
                    "Fixed"
             ],
             "date_published": "2026-11-07T16:17:23+05:30",
-            "date_modified": "2026-11-07T16:17:23+05:30"
+            "date_modified": "2026-11-15T14:11:04+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/",
@@ -63,6 +64,7 @@
             "title": "Fixed: Mailing address selection in Form I-485",
             "summary": "Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.",
             "content_html": "<p>Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.</p>",
+            "image": "https://changelog.fillvisa.com/media/posts/50/Mailing-Address-Selection-Fix.png",
             "author": {
                 "name": "Junaid Khan"
             },
@@ -70,7 +72,7 @@
                    "Fixed"
             ],
             "date_published": "2026-11-07T16:17:00+05:30",
-            "date_modified": "2026-11-07T16:17:07+05:30"
+            "date_modified": "2026-11-15T14:12:48+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/form-edition-dates-are-now-visible/",
@@ -78,6 +80,7 @@
             "title": "Form Edition Dates Are Now Visible 📅",
             "summary": "You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS. We’ve added edition dates in two places: Dates appear in a clear, readable format, such as Sep 18, 2026, making it easier to identify the edition used for your paperwork.",
             "content_html": "<p>You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS.</p>\n<p>We’ve added edition dates in two places:</p>\n<ul>\n<li><strong>Form landing pages:</strong> Check the form edition before you start.</li>\n<li><strong>PDF preview/download areas:</strong> See the PDF edition before saving your completed form.</li>\n</ul>\n<p>Dates appear in a clear, readable format, such as <strong>Sep 18, 2026</strong>, making it easier to identify the edition used for your paperwork.</p>",
+            "image": "https://changelog.fillvisa.com/media/posts/49/Form-Edition-Dates-Visible.png",
             "author": {
                 "name": "Junaid Khan"
             },
@@ -85,7 +88,7 @@
                    "Added"
             ],
             "date_published": "2026-11-02T10:55:42+05:30",
-            "date_modified": "2026-11-02T10:55:46+05:30"
+            "date_modified": "2026-11-15T14:14:29+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/fillvisa-os-v160/",
@@ -93,6 +96,7 @@
             "title": "Fillvisa OS v1.6.0",
             "summary": "Fillvisa OS v1.6.0 introduces Form I-751, launches Applications to help users navigate immigration processes, and fixes a DS-160 validation issue. Added Form I-751 - Petition to Remove Conditions on Residence. All ten form sections with automatic saving. Conditional questions that display relevant fields. Signature pads with&hellip;",
             "content_html": "<p>Fillvisa OS v1.6.0 introduces Form I-751, launches <strong>Applications</strong> to help users navigate immigration processes, and fixes a DS-160 validation issue.</p>\n<h3>🆕 New Form: I-751</h3>\n<p>Added <strong>Form I-751 - Petition to Remove Conditions on Residence</strong>.</p>\n<ul>\n<li>\n<p>All ten form sections with automatic saving.</p>\n</li>\n<li>\n<p>Conditional questions that display relevant fields.</p>\n</li>\n<li>\n<p>Signature pads with signatures embedded in the PDF.</p>\n</li>\n<li>\n<p>Automatic generation of Additional Information pages when needed.</p>\n</li>\n<li>\n<p>PDF preview before downloading.</p>\n</li>\n</ul>\n<p><a href=\"https://changelog.fillvisa.com/form-i-751-is-now-live/\">Read the changelog</a></p>\n<h3>🗂️ New: Applications</h3>\n<p>Introduced <strong>Applications</strong>, a new way to explore immigration processes and their associated forms.</p>\n<ul>\n<li>\n<p><strong>23 application guides</strong> covering family-based immigration, employment-based immigration, citizenship, DACA renewals, and more.</p>\n</li>\n<li>\n<p>Browse applications by name or form number.</p>\n</li>\n<li>\n<p>Review basic eligibility, preparation steps, required forms, and supporting documents.</p>\n</li>\n<li>\n<p>Open supported forms directly in Fillvisa, with links to official government resources for other forms.</p>\n</li>\n<li>\n<p>Navigate multi-stage immigration processes with forms organized by stage.</p>\n</li>\n</ul>\n<p><a href=\"https://changelog.fillvisa.com/applications-are-now-live/\">Read the changelog</a></p>\n<h3>🛠️ Fix: DS-160 \"Not Employed\" Validation</h3>\n<p>Fixed an issue in the DS-160 Present Work section where selecting <strong>\"Not Employed\"</strong> incorrectly triggered validation errors for hidden employer fields.</p>\n<ul>\n<li>\n<p>Employer name, address, phone number, and monthly income are no longer required when \"Not Employed\" is selected.</p>\n</li>\n<li>\n<p>The \"Explain\" field remains optional.</p>\n</li>\n<li>\n<p>Users can now complete the section without unnecessary validation errors.</p>\n</li>\n</ul>\n<p><a href=\"https://changelog.fillvisa.com/fix-ds-160-not-employed-validation/\">Read the changelog</a></p>\n<div><hr></div>\n<p><strong>Fillvisa OS</strong> is free, open-source immigration form preparation software. No account required, with form data stored locally in your browser.</p>\n<p><strong>Try it:</strong> <a href=\"https://fillvisa.com/\">https://fillvisa.com/</a><br><strong>Source code:</strong> <a href=\"https://github.com/athos2113/fillvisa-os\">https://github.com/athos2113/fillvisa-os</a></p>",
+            "image": "https://changelog.fillvisa.com/media/posts/48/Fillvisa-OS-v1.6.0-UI-Release.png",
             "author": {
                 "name": "Junaid Khan"
             },
@@ -100,7 +104,7 @@
                    "Releases"
             ],
             "date_published": "2026-11-01T22:59:57+05:30",
-            "date_modified": "2026-11-01T23:00:59+05:30"
+            "date_modified": "2026-11-15T14:17:45+05:30"
         },
         {
             "id": "https://changelog.fillvisa.com/form-i-751-is-now-live/",

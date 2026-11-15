@@ -3,7 +3,7 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-15T13:59:33+05:30</updated>
+    <updated>2026-11-15T14:17:45+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
@@ -188,16 +188,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/fixed-missing-state-options-in-form-i-485/"/>
         <id>https://changelog.fillvisa.com/fixed-missing-state-options-in-form-i-485/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/51/Fillvisa-Fix_-Form-I-485-State-Options.png" medium="image" />
             <category term="Fixed"/>
 
         <updated>2026-11-07T16:17:23+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/51/Fillvisa-Fix_-Form-I-485-State-Options.png" alt="" />
                     Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/51/Fillvisa-Fix_-Form-I-485-State-Options.png" class="type:primaryImage" alt="" /></p>
                 <p>Added the missing options to the State dropdown in the Most Recent Address section. Users can now select a state, and the selected state abbreviation is included in the downloaded PDF.</p>
             ]]>
         </content>
@@ -209,16 +212,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/"/>
         <id>https://changelog.fillvisa.com/fixed-mailing-address-selection-in-form-i-485/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/50/Mailing-Address-Selection-Fix.png" medium="image" />
             <category term="Fixed"/>
 
         <updated>2026-11-07T16:17:00+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/50/Mailing-Address-Selection-Fix.png" alt="" />
                     Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/50/Mailing-Address-Selection-Fix.png" class="type:primaryImage" alt="" /></p>
                 <p>Fixed an issue that prevented users from selecting “Yes” or “No” for “Is this your current mailing address?” in the Physical Address section. Both options are now selectable, allowing users to complete the question and submit the page.</p>
             ]]>
         </content>
@@ -230,16 +236,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/form-edition-dates-are-now-visible/"/>
         <id>https://changelog.fillvisa.com/form-edition-dates-are-now-visible/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/49/Form-Edition-Dates-Visible.png" medium="image" />
             <category term="Added"/>
 
         <updated>2026-11-02T10:55:42+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/49/Form-Edition-Dates-Visible.png" alt="" />
                     You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS. We’ve added edition dates in two places: Dates appear in a clear, readable format, such as Sep 18, 2026, making it easier to identify the edition used for your paperwork.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/49/Form-Edition-Dates-Visible.png" class="type:primaryImage" alt="" /></p>
                 <p>You can now see which form edition you’re preparing on Fillvisa Free and Fillvisa OS.</p>
 <p>We’ve added edition dates in two places:</p>
 <ul>
@@ -257,16 +266,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/fillvisa-os-v160/"/>
         <id>https://changelog.fillvisa.com/fillvisa-os-v160/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/48/Fillvisa-OS-v1.6.0-UI-Release.png" medium="image" />
             <category term="Releases"/>
 
         <updated>2026-11-01T22:59:57+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/48/Fillvisa-OS-v1.6.0-UI-Release.png" alt="" />
                     Fillvisa OS v1.6.0 introduces Form I-751, launches Applications to help users navigate immigration processes, and fixes a DS-160 validation issue. Added Form I-751 - Petition to Remove Conditions on Residence. All ten form sections with automatic saving. Conditional questions that display relevant fields. Signature pads with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/48/Fillvisa-OS-v1.6.0-UI-Release.png" class="type:primaryImage" alt="" /></p>
                 <p>Fillvisa OS v1.6.0 introduces Form I-751, launches <strong>Applications</strong> to help users navigate immigration processes, and fixes a DS-160 validation issue.</p>
 <h3>🆕 New Form: I-751</h3>
 <p>Added <strong>Form I-751 - Petition to Remove Conditions on Residence</strong>.</p>

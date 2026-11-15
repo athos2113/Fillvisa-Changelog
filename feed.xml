@@ -3,7 +3,7 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-15T14:17:45+05:30</updated>
+    <updated>2026-11-15T14:31:53+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
@@ -347,16 +347,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/form-i-751-is-now-live/"/>
         <id>https://changelog.fillvisa.com/form-i-751-is-now-live/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/47/Form-I-751-Is-Now-Live.png" medium="image" />
             <category term="Added"/>
 
         <updated>2026-11-01T22:48:53+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/47/Form-I-751-Is-Now-Live.png" alt="" />
                     Form I-751, Petition to Remove Conditions on Residence, is now available on Fillvisa! Prepare your petition directly in your browser, with: Free to use, with no account required. Your answers stay in your browser. 👉 Start Form I-751
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/47/Form-I-751-Is-Now-Live.png" class="type:primaryImage" alt="" /></p>
                 <p>Form I-751, <strong>Petition to Remove Conditions on Residence</strong>, is now available on Fillvisa!</p>
 <p>Prepare your petition directly in your browser, with:</p>
 <ul>
@@ -378,16 +381,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/applications-are-now-live/"/>
         <id>https://changelog.fillvisa.com/applications-are-now-live/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/46/Fillvisa-Applications-Are-Live.png" medium="image" />
             <category term="Added"/>
 
         <updated>2026-11-01T22:47:29+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/46/Fillvisa-Applications-Are-Live.png" alt="" />
                     We’ve released Applications - a new way to explore immigration paperwork based on what you’re trying to accomplish. Applications bring related forms together into guides for real immigration processes, from applying for a marriage-based green card to renewing DACA or preparing an employment-based application. How&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/46/Fillvisa-Applications-Are-Live.png" class="type:primaryImage" alt="" /></p>
                 <p>We’ve released <a href="https://fillvisa.com/applications/">Applications</a> - a new way to explore immigration paperwork based on what you’re trying to accomplish.</p>
 <p>Applications bring related forms together into guides for real immigration processes, from applying for a marriage-based green card to renewing DACA or preparing an employment-based application.</p>
 <p><strong>How it works</strong></p>

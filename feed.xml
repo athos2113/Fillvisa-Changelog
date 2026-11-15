@@ -3,7 +3,7 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-13T19:23:48+05:30</updated>
+    <updated>2026-11-15T13:59:33+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/fillvisa-os-v170/"/>
         <id>https://changelog.fillvisa.com/fillvisa-os-v170/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/53/Fillvisa-OS-v1.7.0-Updates.png" medium="image" />
             <category term="Releases"/>
 
         <updated>2026-11-13T19:23:37+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/53/Fillvisa-OS-v1.7.0-Updates.png" alt="" />
                     Fillvisa OS v1.7.0 This release introduces Custom Form Builder, along with improvements to form edition visibility and bug fixes for Form I-485. You can now create your own form templates directly in Fillvisa OS! Build custom forms with your own questions and fields. Reuse templates&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/53/Fillvisa-OS-v1.7.0-Updates.png" class="type:primaryImage" alt="" /></p>
                 <h1>Fillvisa OS v1.7.0</h1>
 <p>This release introduces <strong>Custom Form Builder</strong>, along with improvements to form edition visibility and bug fixes for Form I-485.</p>
 <h2>✨ What's New</h2>
@@ -106,16 +109,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/introducing-custom-form-builder/"/>
         <id>https://changelog.fillvisa.com/introducing-custom-form-builder/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/52/Introducing-Custom-Form-Builder.png" medium="image" />
             <category term="Added"/>
 
         <updated>2026-11-13T19:18:31+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/52/Introducing-Custom-Form-Builder.png" alt="" />
                     We're excited to introduce Custom Form Builder, now available across Fillvisa Free, Fillvisa Open Source, and Fillvisa Plus! Until now, Fillvisa has primarily focused on immigration forms. With Custom Form Builder, you can now create your own form templates for virtually any purpose. Whether you're an&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/52/Introducing-Custom-Form-Builder.png" class="type:primaryImage" alt="" /></p>
                 <p>We're excited to introduce <strong>Custom Form Builder</strong>, now available across <strong><a href="https://fillvisa.com/">Fillvisa Free</a>, <a href="https://github.com/athos2113/fillvisa-os">Fillvisa Open Source</a>, and <a href="https://plus.fillvisa.com/">Fillvisa Plus</a>!</strong></p>
 <p>Until now, Fillvisa has primarily focused on immigration forms. With Custom Form Builder, you can now create your own form templates for virtually any purpose.</p>
 <h3>Build Forms That Fit Your Workflow</h3>

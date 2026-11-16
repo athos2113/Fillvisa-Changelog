@@ -3,7 +3,7 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-15T14:31:53+05:30</updated>
+    <updated>2026-11-16T11:05:44+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
@@ -447,16 +447,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/fix-ds-160-not-employed-validation/"/>
         <id>https://changelog.fillvisa.com/fix-ds-160-not-employed-validation/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/45/DS-160-Validation-Update.png" medium="image" />
             <category term="Fixed"/>
 
         <updated>2026-10-27T13:44:06+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/45/DS-160-Validation-Update.png" alt="" />
                     We fixed an issue in the DS-160 Present Work section that blocked submission when “Not Employed” was selected as the Primary Occupation. Previously, the form incorrectly required hidden employer details, including employer name, address, phone number, and monthly income. You can now submit this section&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/45/DS-160-Validation-Update.png" class="type:primaryImage" alt="" /></p>
                 <p>We fixed an issue in the <a href="https://fillvisa.com/form/usa-ds160">DS-160 Present Work section</a> that blocked submission when “Not Employed” was selected as the Primary Occupation.</p>
 <p>Previously, the form incorrectly required hidden employer details, including employer name, address, phone number, and monthly income.</p>
 <p>You can now submit this section without entering employer details when “Not Employed” is selected. The “Explain” field remains optional.</p>
@@ -471,16 +474,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/fillvisa-os-v150/"/>
         <id>https://changelog.fillvisa.com/fillvisa-os-v150/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/44/Fillvisa-OS-v1.5.0_-All-Forms-Free.png" medium="image" />
             <category term="Releases"/>
 
         <updated>2026-10-19T15:36:55+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/44/Fillvisa-OS-v1.5.0_-All-Forms-Free.png" alt="" />
                     Fillvisa OS v1.5.0 unlocks all supported immigration forms for everyone, adds four new forms, and improves conditional validation in Form I-485. Every supported immigration form is now available on Fillvisa Free and Fillvisa OS, including employment-based forms previously exclusive to Fillvisa Plus. Updated conditional validation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/44/Fillvisa-OS-v1.5.0_-All-Forms-Free.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://github.com/athos2113/fillvisa-os/releases/tag/v1.5.0">Fillvisa OS v1.5.0</a> unlocks all supported immigration forms for everyone, adds four new forms, and improves conditional validation in Form I-485.</p>
 <h3>All forms are now free</h3>
 <p>Every supported immigration form is now available on<a href="https://fillvisa.com/"> <strong>Fillvisa Free</strong></a><strong> and <a href="https://github.com/athos2113/fillvisa-os">Fillvisa OS</a></strong>, including employment-based forms previously exclusive to <a href="https://plus.fillvisa.com/">Fillvisa Plus</a>.</p>
@@ -505,16 +511,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/form-i-912-now-live/"/>
         <id>https://changelog.fillvisa.com/form-i-912-now-live/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/43/Form-I-912-Now-Live-in-Fillvisa.png" medium="image" />
             <category term="Added"/>
 
         <updated>2026-10-19T15:16:01+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/43/Form-I-912-Now-Live-in-Fillvisa.png" alt="" />
                     We're excited to announce that Form I-912, Request for Fee Waiver, is now available on Fillvisa! You can prepare your fee waiver request directly in your browser, with sections covering means-tested benefits, household income, and financial hardship. 🟢 Fillvisa Free 🟢 Fillvisa OS - Open&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/43/Form-I-912-Now-Live-in-Fillvisa.png" class="type:primaryImage" alt="" /></p>
                 <p>We're excited to announce that <a href="https://fillvisa.com/form/i-912/">Form I-912, Request for Fee Waiver</a>, is now available on Fillvisa!</p>
 <p>You can prepare your fee waiver request directly in your browser, with sections covering means-tested benefits, household income, and financial hardship.</p>
 <h3><strong>What’s New?</strong></h3>
@@ -546,17 +555,20 @@
         </author>
         <link href="https://changelog.fillvisa.com/i-485-update-smarter-conditional-validation/"/>
         <id>https://changelog.fillvisa.com/i-485-update-smarter-conditional-validation/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/42/Smarter-Form-I-485-Validation.png" medium="image" />
             <category term="Update"/>
             <category term="Fixed"/>
 
         <updated>2026-10-16T18:05:47+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/42/Smarter-Form-I-485-Validation.png" alt="" />
                     We’ve improved validation throughout Form I-485 so questions that don’t apply to you no longer block form completion or PDF download. We also tested saved-data restoration, answer changes, and PDF generation to verify the updated behavior
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/42/Smarter-Form-I-485-Validation.png" class="type:primaryImage" alt="" /></p>
                 <p>We’ve improved validation throughout <a href="https://fillvisa.com/form/i-485/">Form I-485 </a>so questions that don’t apply to you no longer block form completion or PDF download.</p>
 <ul>
 <li>Follow-up questions now activate only when the relevant answers make them applicable.</li>
@@ -576,16 +588,19 @@
         </author>
         <link href="https://changelog.fillvisa.com/form-i-129f-now-live/"/>
         <id>https://changelog.fillvisa.com/form-i-129f-now-live/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/41/Form-I-129F-Is-Now-Live.png" medium="image" />
             <category term="Added"/>
 
         <updated>2026-10-12T08:03:05+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/41/Form-I-129F-Is-Now-Live.png" alt="" />
                     We're excited to announce that Form I-129F, Petition for Alien Fiancé(e), is now available on Fillvisa Free and Fillvisa OS! Form I-129F is used by U.S. citizens to petition for their foreign national fiancé(e) to enter the United States for marriage under the K-1 visa classification.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/41/Form-I-129F-Is-Now-Live.png" class="type:primaryImage" alt="" /></p>
                 <p>We're excited to announce that <strong><a href="https://fillvisa.com/form/i-129f/">Form I-129F, Petition for Alien Fiancé(e)</a></strong>, is now available on Fillvisa Free and Fillvisa OS!</p>
 <p>Form I-129F is used by U.S. citizens to petition for their foreign national fiancé(e) to enter the United States for marriage under the K-1 visa classification. It can also be used in certain circumstances to petition for a spouse under the K-3 visa classification.</p>
 <h3>What's New?</h3>

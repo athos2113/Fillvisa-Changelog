@@ -3,12 +3,81 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-16T11:05:44+05:30</updated>
+    <updated>2026-11-19T15:27:30+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
+    <entry>
+        <title>Fillvisa Forms Are Now Available in Spanish! 🇪🇸</title>
+        <author>
+            <name>Junaid Khan</name>
+        </author>
+        <link href="https://changelog.fillvisa.com/fillvisa-forms-are-now-available-in-spanish/"/>
+        <id>https://changelog.fillvisa.com/fillvisa-forms-are-now-available-in-spanish/</id>
+            <category term="Update"/>
+
+        <updated>2026-11-19T15:26:33+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Immigration forms should be accessible to everyone, regardless of the language they speak. We're excited to announce that Fillvisa now supports Spanish! Spanish-speaking immigrants can now fill out USCIS forms in their preferred language, making the immigration process easier to understand and navigate. And yes,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Immigration forms should be accessible to everyone, regardless of the language they speak.</strong></p>
+<p>We're excited to announce that <strong>Fillvisa now supports Spanish!</strong> Spanish-speaking immigrants can now fill out USCIS forms in their preferred language, making the immigration process easier to understand and navigate.</p>
+<p>And yes, this feature is available across <strong>Fillvisa Free, Open Source, and Plus.</strong></p>
+<h2>Breaking Down Language Barriers</h2>
+<p>Most official USCIS forms are available only in English. For millions of Spanish-speaking immigrants, this creates an additional challenge when completing already complicated immigration paperwork.</p>
+<p>At Fillvisa, our mission has always been to make immigration form preparation more accessible, affordable, and straightforward.</p>
+<p>We're taking another step toward that goal by introducing <strong>multilingual form support, starting with Spanish.</strong></p>
+<p>Users can now read form questions, instructions, and input fields in Spanish while preparing their immigration applications.</p>
+<h2>How to Fill USCIS Forms in Spanish</h2>
+<p>Getting started is simple:</p>
+<ol start="1">
+<li>
+<p>Visit <a href="https://fillvisa.com/form/">Fillvisa Forms</a> and select any available form, such as <a href="https://fillvisa.com/form/i-485/">Form I-485</a>.</p>
+</li>
+<li>
+<p>Click to start filling out the form.</p>
+</li>
+<li>
+<p>Look for the <strong>"Select Language"</strong> dropdown in the top-right corner.</p>
+</li>
+<li>
+<p>Select <strong>Spanish</strong> to switch the form's interface to Spanish.</p>
+</li>
+<li>
+<p>Complete your application and download your filled USCIS PDF.</p>
+</li>
+</ol>
+<p>You can switch between English and Spanish at any time using the language dropdown.</p>
+<h3>Spanish Input, Official English PDF Output</h3>
+<p>While you can complete the form using the Spanish interface, <strong>the downloaded PDF will remain in English</strong>, using the official USCIS form.</p>
+<p>This means you get the convenience of understanding and filling out questions in Spanish while still generating the official English-language document required for submission to USCIS.</p>
+<h2>Available Across All Fillvisa Editions</h2>
+<p>Multilingual forms aren't limited to paid users.</p>
+<ul>
+<li>
+<p><a href="https://fillvisa.com/form/"><strong>Fillvisa Free</strong></a> — Fill out USCIS forms in Spanish for free, directly in your browser.</p>
+</li>
+<li>
+<p><a href="https://github.com/athos2113/fillvisa-os"><strong>Fillvisa Open Source</strong></a> — Spanish-language support is available in our free, open-source edition.</p>
+</li>
+<li>
+<p><a href="https://plus.fillvisa.com/"><strong>Fillvisa Plus</strong></a> — Immigration professionals can use Spanish-language forms alongside client profiles, collaboration, and other Plus features.</p>
+</li>
+</ul>
+<h2>Spanish Is Just the Beginning</h2>
+<p>This is the first step in our larger plan to make <strong>Fillvisa forms multilingual</strong>.</p>
+<p>Our goal is to help immigrants navigate immigration paperwork in the language they're most comfortable with, without compromising the official documents they need to submit.</p>
+<p>We'll continue expanding language support over time.</p>
+<p><strong>Try it today:</strong> <a href="https://fillvisa.com/form/">Explore Fillvisa Forms</a> and select Spanish from the language dropdown.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fillvisa OS v1.7.0</title>
         <author>
@@ -954,42 +1023,6 @@
             <![CDATA[
                 <p class="mb-0 display-4"><a href="https://fillvisa.com/form/i-539/">Form I-539: Application to Extend/Change Nonimmigrant Status</a> - now available on Fillvisa</p>
 <p><strong>What's new</strong><br><br>Fill I-539 for free, right in your browser - no account, nothing ever leaves your device.<br><br><strong>What's next</strong><br><br>More EB-1 through EB-5 forms are on the way. Follow this changelog for updates as they ship.<br><br>Have a form you'd like to see next? Let us know - we're building this around what practitioners actually need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fix: Form I-485 Family-Based Flow Validation and Question Wording Improvements</title>
-        <author>
-            <name>Junaid Khan</name>
-        </author>
-        <link href="https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/"/>
-        <id>https://changelog.fillvisa.com/fix-form-i-485-family-based-flow-validation-and-question-wording-improvements/</id>
-            <category term="Fixed"/>
-
-        <updated>2026-08-31T12:44:03+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    We shipped a set of fixes to the Form I-485 family-based flow after users reported a few confusing validation and wording issues while completing the form. Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>We shipped a set of fixes to the<a href="https://fillvisa.com/form/i-485/"> Form I-485</a> family-based flow after users reported a few confusing validation and wording issues while completing the form.</p>
-<h2><strong>What Happened</strong></h2>
-<p>Some I-485 users were being blocked by fields that did not apply to their situation. The form was requiring passport or travel document details such as passport number, expiration date, and country of issuance, even when the applicant did not need to provide them.</p>
-<p>Another issue appeared in <a href="https://fillvisa.com/form/i-485/additional-info">Part 4: Additional Info</a>. The employment and education section had two similar fields: “Employer or School” and “Name of Employer, Company, or School.” Because both were required, users had to type into both fields before they could submit the section.</p>
-<p>We also found a wording issue in<a href="https://fillvisa.com/form/i-485/general-eligibility-9f"> Part 9F,</a> questions 78.a and 78.b. The online form showed 78.a as if it were only asking about unlawful presence after April 1, 1997. The official PDF question is broader: it first asks whether the applicant reentered or attempted to reenter the United States after certain events, then lists 78.a and 78.b as the specific conditions.</p>
-<h2><strong>Effect of the Problem</strong></h2>
-<p>These issues could make users answer differently online than they would on the official USCIS PDF.</p>
-<p>For applicants whose passport, travel document, or visa details did not apply, the form could feel impossible to complete because it asked for information they did not have.</p>
-<p>For Part 4, users were forced to duplicate employment or school information just to pass validation.</p>
-<p>For Part 9F, the missing parent question changed the meaning of 78.a and 78.b. A user might answer “Yes” based only on unlawful presence, even though the actual form is asking about reentry or attempted reentry after unlawful presence or removal.</p>
-<h2><strong>What Was Fixed</strong></h2>
-<p>Passport and travel document fields in Form I-485 are now optional when they do not apply. Related nonimmigrant visa fields were also reviewed so they do not block submission when left blank for non-applicable cases.</p>
-<p>In Part 4, the “Employer or School” helper field is no longer required. The actual “Name of Employer, Company, or School” field remains required, so users still provide the core employment or education information without being forced to duplicate it.</p>
-<p>In Part 9F, questions 78.a and 78.b were updated to match the official PDF structure more closely. The shared parent question now appears above both items, and 78.a includes the explanatory unlawful-presence text from the official form.</p>
-<h2><strong>Conclusion</strong></h2>
-<p>These updates make Form I-485 clearer, less repetitive, and closer to the official USCIS form language. Users should now be able to complete the family-based I-485 flow without being blocked by non-applicable passport or travel document fields, duplicate employer/school fields, or confusing wording in Part 9F.</p>
             ]]>
         </content>
     </entry>

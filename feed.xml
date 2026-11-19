@@ -3,29 +3,32 @@
     <title>Fillvisa Changelog</title>
     <link href="https://changelog.fillvisa.com/feed.xml" rel="self" />
     <link href="https://changelog.fillvisa.com" />
-    <updated>2026-11-19T15:27:30+05:30</updated>
+    <updated>2026-11-19T15:32:13+05:30</updated>
     <author>
         <name>Junaid Khan</name>
     </author>
     <id>https://changelog.fillvisa.com</id>
 
     <entry>
-        <title>Fillvisa Forms Are Now Available in Spanish! 🇪🇸</title>
+        <title>Fillvisa Forms Are Now Available in Spanish!</title>
         <author>
             <name>Junaid Khan</name>
         </author>
         <link href="https://changelog.fillvisa.com/fillvisa-forms-are-now-available-in-spanish/"/>
         <id>https://changelog.fillvisa.com/fillvisa-forms-are-now-available-in-spanish/</id>
+        <media:content url="https://changelog.fillvisa.com/media/posts/54/Fillvisa-Spanish-Forms-Announcement.png" medium="image" />
             <category term="Update"/>
 
         <updated>2026-11-19T15:26:33+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://changelog.fillvisa.com/media/posts/54/Fillvisa-Spanish-Forms-Announcement.png" alt="" />
                     Immigration forms should be accessible to everyone, regardless of the language they speak. We're excited to announce that Fillvisa now supports Spanish! Spanish-speaking immigrants can now fill out USCIS forms in their preferred language, making the immigration process easier to understand and navigate. And yes,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://changelog.fillvisa.com/media/posts/54/Fillvisa-Spanish-Forms-Announcement.png" class="type:primaryImage" alt="" /></p>
                 <p><strong>Immigration forms should be accessible to everyone, regardless of the language they speak.</strong></p>
 <p>We're excited to announce that <strong>Fillvisa now supports Spanish!</strong> Spanish-speaking immigrants can now fill out USCIS forms in their preferred language, making the immigration process easier to understand and navigate.</p>
 <p>And yes, this feature is available across <strong>Fillvisa Free, Open Source, and Plus.</strong></p>
